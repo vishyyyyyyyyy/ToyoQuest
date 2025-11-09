@@ -76,7 +76,7 @@ def financials_page():
 def quiz_page():
     """Endpoint for receiving selected cards from the quiz page.
 
-    - GET: returns a short instruction string
+    - GET: returns the latest quiz selections
     - POST: accepts JSON payload with selectedCards array
     """
     if request.method == 'POST':
@@ -95,7 +95,57 @@ def quiz_page():
 
         return jsonify(success=True, received=data), 200
 
-    return "Send a JSON POST to this endpoint with selectedCards array"
+    # GET: return the latest quiz selections
+    try:
+        if QUIZ_FILE.exists():
+            with QUIZ_FILE.open('r', encoding='utf-8') as f:
+                quiz_data = json.load(f)
+                return jsonify(quiz_data), 200
+        else:
+            return jsonify({'selectedCards': []}), 200
+    except Exception as e:
+        print(f"Failed to read quiz data: {e}")
+        return jsonify({'selectedCards': []}), 200
+
+
+@app.route('/recommendations', methods=['GET'])
+def recommendations_page():
+    """Endpoint for getting vehicle recommendations.
+    
+    - GET: returns top 3 vehicle recommendations based on financials and quiz data
+    """
+    try:
+        # Import here to avoid circular imports and ensure data is loaded
+        from questions import get_recommendations
+        
+        print("[Flask] Calling get_recommendations()...")
+        # Get recommendations
+        recommendations = get_recommendations()
+        
+        print(f"[Flask] Received {len(recommendations) if recommendations else 0} recommendations")
+        
+        if not recommendations:
+            print("[Flask] WARNING: No recommendations returned. Check server logs for details.")
+            return jsonify({
+                'success': False,
+                'error': 'No recommendations generated. Check server console for details.',
+                'recommendations': []
+            }), 200
+        
+        return jsonify({
+            'success': True,
+            'recommendations': recommendations
+        }), 200
+        
+    except Exception as e:
+        print(f"[Flask] ERROR generating recommendations: {e}")
+        import traceback
+        traceback.print_exc()
+        return jsonify({
+            'success': False,
+            'error': str(e),
+            'recommendations': []
+        }), 500
 
 #def caculatePayment()
 
