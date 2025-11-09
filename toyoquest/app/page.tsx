@@ -72,7 +72,7 @@ export default function Home() {
 
             <div className=" underline text-lg font-semibold text-black mt-12 items-align-center gap-4 justify-center flex">
                 <Link href = "/start">Get Started Below</Link>
-                <FaArrowCircleDown className="text-[#E10A1D] mt-1"/>
+                <FaArrowCircleDown className ="text-[#E10A1D] mt-1"/>
                 {/* add click animaiton scroll here */}
               </div>
           </div>
