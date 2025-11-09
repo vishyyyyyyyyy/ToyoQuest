@@ -1,0 +1,3719 @@
+[
+  {
+    "base_model": "corollacross",
+    "trim_name": "L",
+    "base_msrp": "$24,935",
+    "mpg": "31/33",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "7-in. digital gauge cluster",
+      "SiriusXM® 3-month trial subscription",
+      "LED projector low- and high-beam headlights with Automatic High Beams (AHB)",
+      "Rear-seat vents",
+      "Audio with 8-in. touchscreen and six speakers"
+    ],
+    "key_features": [
+      "LED projector low- and high-beam headlights with Automatic High Beams (AHB)",
+      "Rear-seat vents",
+      "Audio with 8-in. touchscreen and six speakers"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft.",
+      "towing": "1500-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "corollacross",
+    "trim_name": "LE",
+    "base_msrp": "$27,265",
+    "mpg": "31/33",
+    "seats": 5,
+    "primary_features": [
+      "Qi-compatible wireless charging",
+      "Audio with available 10.5-in. multimedia touchscreen and six speakers",
+      "7-in. digital gauge cluster",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "17-in. silver-colored alloy wheels",
+      "Smart Key System with Push Button Start",
+      "Roof rails",
+      "Available moonroof"
+    ],
+    "key_features": [
+      "Qi-compatible wireless charging",
+      "Audio with 8-in. touchscreen and six speakers",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corollacross",
+    "trim_name": "XLE",
+    "base_msrp": "$29,860",
+    "mpg": "31/33",
+    "seats": 5,
+    "primary_features": [
+      "18-in. alloy wheels with dark gray metallic machined finish",
+      "SofTex®-trimmed seating with heated front seats (AWD only)",
+      "12.3-in. digital gauge cluster",
+      "10.5-in. multimedia touchscreen",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Available JBL® Premium Audio with nine speakers",
+      "Available moonroof",
+      "Available power liftgate",
+      "Heated steering wheel (AWD)"
+    ],
+    "key_features": [
+      "18-in. alloy wheels with dark gray metallic machined finish",
+      "12.3-in. digital gauge cluster",
+      "10.5-in. multimedia touchscreen"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corollacross",
+    "trim_name": "Hybrid S",
+    "base_msrp": "$29,295",
+    "mpg": "46/39",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "SiriusXM® 3-month trial subscription",
+      "LED projector low- and high-beam headlights with Automatic High Beams (AHB)",
+      "Rear-seat vents",
+      "Audio with 8-in. touchscreen and six speakers"
+    ],
+    "key_features": [
+      "Sport styling with sport front grille, front/rear bumpers, and smoked front Toyota emblem with all-black badging including AWD badge",
+      "Matte-black heated power outside mirrors",
+      "7-in. digital gauge cluster"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl. Hybrid",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "196 net combined hp"
+    }
+  },
+  {
+    "base_model": "corollacross",
+    "trim_name": "Hybrid SE",
+    "base_msrp": "$30,615",
+    "mpg": "46/39",
+    "seats": 5,
+    "primary_features": [
+      "Qi-compatible wireless charging",
+      "Audio with 8-in. touchscreen and six speakers",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "7-in. digital gauge cluster",
+      "17-in. silver-colored alloy wheels",
+      "Smart Key System with Push Button Start",
+      "Roof rails",
+      "Available 10.5-in. multimedia touchscreen",
+      "Available moonroof",
+      "Available heated front seats",
+      "Available heated steering wheel"
+    ],
+    "key_features": [
+      "Qi-compatible wireless charging",
+      "Audio with 8-in. touchscreen and six speakers",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl. Hybrid",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "196 net combined hp"
+    }
+  },
+  {
+    "base_model": "corollacross",
+    "trim_name": "Hybrid XSE",
+    "base_msrp": "$33,330",
+    "mpg": "46/39",
+    "seats": 5,
+    "primary_features": [
+      "18-in. black-gloss alloy wheels with black-painted machined finish",
+      "LED Daytime Running Lights (DRL) with on/off feature",
+      "SofTex®-trimmed seating with heated front seats",
+      "12.3-in. digital gauge cluster",
+      "Ambient lighting",
+      "10.5-in. multimedia touchscreen",
+      "Qi-compatible wireless charging",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Available JBL® Premium Audio with nine speakers",
+      "Available moonroof",
+      "Available power liftgate",
+      "Heated steering wheel"
+    ],
+    "key_features": [
+      "18-in. black-gloss alloy wheels with black-painted machined finish",
+      "12.3-in. digital gauge cluster",
+      "10.5-in. multimedia touchscreen"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl. Hybrid",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "196 net combined hp"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "LE",
+    "base_msrp": "$29,800",
+    "mpg": "27/35",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "Direct Shift 8-speed Electronically Controlled automatic Transmission",
+      "Available All-Wheel Drive (AWD)",
+      "Available Multi-Terrain Select (MTS) with MUD & SAND, ROCK & DIRT, SNOW and NORMAL modes"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl.",
+      "transmission": "Direct Shift 8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "203 net combined horsepower",
+      "torque": "184 lb.-ft."
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "XLE",
+    "base_msrp": "$31,310",
+    "mpg": "27/35",
+    "seats": 5,
+    "primary_features": [
+      "17-in. 5-spoke alloy wheels",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Dual zone automatic climate control system",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "17-in. 5-spoke alloy wheels",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "LED projector headlights with chrome-finished bezels"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl.",
+      "transmission": "Direct Shift 8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "203 net combined horsepower",
+      "torque": "184 lb.-ft."
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "XLE Premium",
+    "base_msrp": "$34,200",
+    "mpg": "27/35",
+    "seats": 5,
+    "primary_features": [
+      "19-in. multi-spoke metallic-finished alloy wheels",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with available two-position memory function",
+      "Power tilt/slide moonroof",
+      "Smart Key System on front doors and liftgate",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "19-in. multi-spoke metallic-finished alloy wheels",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with available two-position memory function",
+      "Power tilt/slide moonroof"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl.",
+      "transmission": "Direct Shift 8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "203 net combined horsepower",
+      "torque": "184 lb.-ft."
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Limited",
+    "base_msrp": "$38,105",
+    "mpg": "27/35",
+    "seats": 5,
+    "primary_features": [
+      "19-in. multi-spoke metallic-finished alloy wheels",
+      "Available Dynamic Torque Vectoring All-Wheel Drive (TV-AWD)",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with two-position memory function",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector low- and high-beam headlights with LED DRL accent lights and turn signals",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "19-in. multi-spoke metallic-finished alloy wheels",
+      "Available Dynamic Torque Vectoring All-Wheel Drive (TV-AWD)",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl.",
+      "transmission": "Direct Shift 8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Torque Vectoring All-Wheel Drive (TV-AWD)"
+    },
+    "performance": {
+      "horsepower": "203 net combined horsepower",
+      "torque": "184 lb.-ft."
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid LE",
+    "base_msrp": "$32,850",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent.",
+      "Low-profile black roof rails"
+    ],
+    "key_features": [
+      "All-Wheel Drive Integrated Management (AIM) with Multi-Information Display (MID) monitor",
+      "Electronically controlled Continuously Variable Transmission (ECVT) with sequential shift mode",
+      "17-in. 5-spoke light gray metallic alloy wheels"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid XLE",
+    "base_msrp": "$34,360",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "LED projector-beam headlights with chrome-finished bezels",
+      "Smart Key System on front doors and liftgate",
+      "Dual zone automatic climate control system",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "LED projector-beam headlights with chrome-finished bezels",
+      "Smart Key System on front doors and liftgate",
+      "17-in. 5-spoke light gray metallic alloy wheels"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid XLE Premium",
+    "base_msrp": "$37,250",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "18-in. multi-spoke dark metallic-finished alloy wheels",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with available two-position memory function",
+      "Power tilt/slide moonroof",
+      "Smart Key System on front doors and liftgate",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "LED projector headlights with chrome-finished bezels",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "18-in. multi-spoke dark metallic-finished alloy wheels",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with available two-position memory function",
+      "Power tilt/slide moonroof"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid Woodland Edition",
+    "base_msrp": "$36,070",
+    "mpg": "38/35",
+    "seats": 5,
+    "primary_features": [
+      "18-in. 6-spoke bronze-colored TRD flow-formed alloy wheels and Falken® WILDPEAK All-Terrain tires",
+      "Woodland all-weather floor mats and cargo liner",
+      "One 120V/100W AC power outlet in cargo area",
+      "TRD-Tuned Off-Road Suspension",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "Standard activity mount",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial"
+    ],
+    "key_features": [
+      "18-in. 6-spoke bronze-colored TRD flow-formed alloy wheels and Falken® WILDPEAK All-Terrain tires",
+      "TRD-Tuned Off-Road Suspension",
+      "One 120V/100W AC power outlet in cargo area"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid SE",
+    "base_msrp": "$35,545",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "18-in. multi-spoke black-painted sport alloy wheels",
+      "Fabric-trimmed seats with sporty blue stitching and power-adjustable driver's seat",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "Sport-tuned Suspension",
+      "8-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent."
+    ],
+    "key_features": [
+      "18-in. multi-spoke black-painted sport alloy wheels",
+      "Sport-tuned Suspension",
+      "Fabric-trimmed seats with sporty blue stitching and power-adjustable driver's seat"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower",
+      "note": "Sport-tuned suspension"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid XSE",
+    "base_msrp": "$38,510",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "18-in. multi-spoke black-painted sport alloy wheels",
+      "Two-tone exterior color",
+      "SofTex®-trimmed seats and power-adjustable driver's seat",
+      "Sport-tuned suspension",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "Heated front seats",
+      "Vertical LED accent lights",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial"
+    ],
+    "key_features": [
+      "Two-tone exterior color",
+      "SofTex®-trimmed seats and power-adjustable driver's seat",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower",
+      "note": "Sport-tuned suspension"
+    }
+  },
+  {
+    "base_model": "rav4",
+    "trim_name": "Hybrid Limited",
+    "base_msrp": "$41,155",
+    "mpg": "41/38",
+    "seats": 5,
+    "primary_features": [
+      "18-in. multi-spoke dark metallic-finished alloy wheels",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "SofTex®-trimmed seats and power-adjustable driver's seat with two-position memory function",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "Safety Connect® with up to a 10-year trial. 4G network dependent.",
+      "Heated and ventilated front seats"
+    ],
+    "key_features": [
+      "18-in. multi-spoke dark metallic-finished alloy wheels",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial"
+    ],
+    "drivetrain": {
+      "engine": "2.5L hybrid engine",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "219 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "rav4pluginhybrid",
+    "trim_name": "SE",
+    "base_msrp": "$44,815",
+    "mpg_mpge": "38/94",
+    "seats": 5,
+    "primary_features": [
+      "8-in. multimedia display",
+      "18-in. 5-spoke painted and machined sport alloy wheels",
+      "Toyota Safety Sense™ 2.5+ (TSS 2.5+)",
+      "LED projector low- and high-beam headlights with LED DRL accent lights and turn signals",
+      "Electronic On-Demand All-Wheel Drive (AWD)",
+      "7-in. digital Multi-Information Display (MID)"
+    ],
+    "key_features": [
+      "18-in. 5-spoke painted and machined sport alloy wheels",
+      "LED projector low- and high-beam headlights with LED DRL accent lights and turn signals",
+      "Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl. plug-in hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "302 net combined hp",
+      "ev_range": "Estimated all-electric driving range of 42 miles",
+      "acceleration": "5.7-second 0-60 time"
+    }
+  },
+  {
+    "base_model": "rav4pluginhybrid",
+    "trim_name": "XSE",
+    "base_msrp": "$48,685",
+    "mpg_mpge": "38/94",
+    "seats": 5,
+    "primary_features": [
+      "10.5-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial",
+      "SofTex®-trimmed seats with sporty red stitching and fabric seat inserts",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Vertical LED front bumper accent lights",
+      "12.3-in. digital gauge cluster",
+      "19-in. 5-spoke painted and machined sport alloy wheels",
+      "Standard two-tone exterior color with Midnight Black Metallic roof"
+    ],
+    "key_features": [
+      "19-in. 5-spoke painted and machined sport alloy wheels",
+      "Standard two-tone exterior color with Midnight Black Metallic roof",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier"
+    ],
+    "drivetrain": {
+      "engine": "2.5L 4-Cyl. plug-in hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "302 net combined hp",
+      "ev_range": "Estimated all-electric driving range of 42 miles",
+      "acceleration": "5.7-second 0-60 time",
+      "note": "Steering wheel-mounted paddle shifters"
+    }
+  },
+  {
+    "base_model": "bz",
+    "trim_name": "XLE",
+    "base_msrp": "$34,900",
+    "range": "236 Miles",
+    "seats": 5,
+    "primary_features": [
+      "Up to 314-mile est. range rating",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Available fixed panoramic roof with power sunshade",
+      "North American Charging System (NACS) charging port",
+      "SofTex®/fabric-trimmed seats with ample leg room",
+      "Wireless Android Auto™ and Apple CarPlay® compatibility",
+      "3-year Remote Connect and 3-year Drive Connect trials. 4G network dependent.",
+      "Available Digital Key capability"
+    ],
+    "key_features": [
+      "Up to 314-mile est. range rating",
+      "Available All-Wheel Drive (AWD) with X-MODE",
+      "14-in. Toyota Audio Multimedia"
+    ],
+    "drivetrain": {
+      "fwd_plus": "Front-Wheel Drive (FWD) Plus: 314-mile est. range rating",
+      "awd": "All-Wheel Drive (AWD): 288-mile est. range rating",
+      "fwd": "Front-Wheel Drive (FWD): 236-mile est. range rating",
+      "optional": "Available All-Wheel Drive (AWD) with X-MODE"
+    },
+    "performance": {
+      "motor": "AC synchronous electric motor(s), 221 total system horsepower (FWD), 338 total combined system horsepower (AWD)"
+    }
+  },
+  {
+    "base_model": "bz",
+    "trim_name": "Limited",
+    "base_msrp": "$43,300",
+    "range": "299 Miles",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "14-in. Toyota Audio Multimedia",
+      "Fixed panoramic roof with power sunshade",
+      "Digital rearview mirror",
+      "Panoramic View Monitor",
+      "Advanced Park",
+      "Split roof rear spoiler",
+      "Wireless Android Auto™ and Apple CarPlay® compatibility",
+      "3-year Remote Connect and 3-year Drive Connect trials. 4G network dependent.",
+      "Available 9-speaker JBL® Premium Audio"
+    ],
+    "key_features": [
+      "Available All-Wheel Drive (AWD) with X-MODE",
+      "20-in. multi-spoke black/silver alloy wheels",
+      "SofTex®-trimmed seats with heated/ventilated front seats"
+    ],
+    "drivetrain": {
+      "awd": "All-Wheel Drive (AWD): 278-mile est. range rating",
+      "fwd": "Front-Wheel Drive (FWD): 299-mile est. range rating",
+      "optional": "Available All-Wheel Drive (AWD) with X-MODE"
+    },
+    "performance": {
+      "motor": "AC synchronous electric motors(s), 221 total system horsepower (FWD), 338 total combined system horsepower (AWD)"
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "XLE",
+    "base_msrp": "$45,270",
+    "mpg": "21/28",
+    "seats": 8,
+    "primary_features": [
+      "18-in. machined-finish alloy wheels",
+      "Qi-compatible wireless charging with charge indicator light",
+      "Power tilt/slide moonroof with sunshade",
+      "SofTex®-trimmed front- and second-row seats with heated front seats",
+      "10-way power-adjustable driver's seat including power lumbar support; 8-way power-adjustable front passenger seat",
+      "Auto-dimming rearview mirror with HomeLink® universal transceiver",
+      "Height-adjustable hands-free power liftgate with jam protection",
+      "Silver-painted roof rails"
+    ],
+    "key_features": [
+      "SofTex®-trimmed front- and second-row seats with heated front seats",
+      "Height-adjustable hands-free power liftgate with jam protection",
+      "Qi-compatible wireless charging with charge indicator light"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "XSE",
+    "base_msrp": "$47,340",
+    "mpg": "21/28",
+    "seats": 7,
+    "primary_features": [
+      "20-in. black alloy wheels",
+      "Sport-tuned independent MacPherson strut front suspension with stabilizer bar; trailing-wishbone suspension",
+      "Aggressive mesh front grille with sporty front bumper and lower spoiler",
+      "Twin-tip exhaust",
+      "LED projector headlights with black accents and LED-strip Daytime Running Lights (DRL)",
+      "Black roof rails",
+      "Rear lower bumper in gray metallic finish with chrome-finished lower spoiler trim",
+      "Color-keyed side rocker panels with chrome-finished lower trim",
+      "SofTex®-trimmed or leather-trimmed front- and second-row seats with heated front seats",
+      "12.3-in. digital gauge cluster"
+    ],
+    "key_features": [
+      "20-in. black alloy wheels",
+      "Sport-tuned independent MacPherson strut front suspension with stabilizer bar; trailing-wishbone suspension",
+      "Aggressive mesh front grille with sporty front bumper and lower spoiler"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo",
+      "drive": "Dynamic Torque Vectoring All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "Limited",
+    "base_msrp": "$49,725",
+    "mpg": "21/28",
+    "seats": 8,
+    "primary_features": [
+      "20-in. chrome-finished alloy wheels",
+      "12.3-in. Toyota Audio Multimedia touchscreen with 11 JBL® speakers",
+      "12.3-in. digital gauge cluster",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Heated power outside mirrors with turn signal, power folding, reverse tilt-down with memory feature and puddle lights with integrated Highlander logo",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats",
+      "Driver's-seat memory function",
+      "LED projector headlights with LED-strip Daytime Running Lights (DRL) and high-output LED fog lights",
+      "Silver-finish roof rails"
+    ],
+    "key_features": [
+      "12.3-in. Toyota Audio Multimedia touchscreen with 11 JBL® speakers",
+      "12.3-in. digital gauge cluster",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo",
+      "drive": "Dynamic Torque Vectoring All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "Platinum",
+    "base_msrp": "$52,925",
+    "mpg": "21/28",
+    "seats": 7,
+    "primary_features": [
+      "20-in. alloy wheels",
+      "Panoramic glass roof with sunshade and front power tilt/slide moonroof",
+      "Panoramic View Monitor (PVM) and backup camera with dynamic gridlines",
+      "10-in. color Head-Up Display (HUD)",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats",
+      "LED projector headlights with Adaptive Front-Lighting System (AFS), auto leveling, LED-strip Daytime Running Lights (DRL) and high-output LED fog lights",
+      "Rain-sensing windshield wipers"
+    ],
+    "key_features": [
+      "Panoramic glass roof with sunshade and front power tilt/slide moonroof",
+      "Panoramic View Monitor (PVM) and backup camera with dynamic gridlines",
+      "10-in. color Head-Up Display (HUD)"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo",
+      "drive": "Dynamic Torque Vectoring All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "Hybrid XLE",
+    "base_msrp": "$47,020",
+    "mpg": "35/35",
+    "seats": 8,
+    "primary_features": [
+      "18-in. machined-finish alloy wheels",
+      "8-in. Toyota Audio Multimedia with six speakers, and wireless Apple CarPlay® and Android Auto™ compatibility",
+      "Qi-compatible wireless charging with charge indicator light",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Power tilt/slide moonroof with sunshade",
+      "SofTex®-trimmed front- and second-row seats with heated front seats",
+      "7-in. color LCD Multi-Information Display (MID)",
+      "LED headlights, taillights and fog lights",
+      "Third row with seating for up to eight",
+      "Toyota Safety Sense™ 2.5+ (TSS 2.5+)"
+    ],
+    "key_features": [
+      "Third row with seating for up to eight",
+      "8-in. Toyota Audio Multimedia with six speakers, and wireless Apple CarPlay® and Android Auto™ compatibility",
+      "Toyota Safety Sense™ 2.5+ (TSS 2.5+)"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "243 combined net hp",
+      "torque": "175 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "Hybrid Limited",
+    "base_msrp": "$51,475",
+    "mpg": "35/34",
+    "seats": 7,
+    "primary_features": [
+      "20-in. chrome-finished alloy wheels",
+      "12.3-in. Toyota Audio Multimedia touchscreen with 11 JBL® speakers",
+      "12.3-in. digital gauge cluster",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Heated power outside mirrors with turn signal and blind spot warning indicators, puddle lights and power folding feature",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats",
+      "LED projector headlights with LED-strip Daytime Running Lights (DRL) and high-output LED fog lights",
+      "Height-adjustable hands-free power liftgate with jam protection",
+      "Two 120V outlets (1500W shared)",
+      "Silver-finish roof rails"
+    ],
+    "key_features": [
+      "12.3-in. Toyota Audio Multimedia touchscreen with 11 JBL® speakers",
+      "12.3-in. digital gauge cluster",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "243 combined net hp",
+      "torque": "175 lb.-ft."
+    }
+  },
+  {
+    "base_model": "highlander",
+    "trim_name": "Hybrid Platinum",
+    "base_msrp": "$54,675",
+    "mpg": "35/34",
+    "seats": 7,
+    "primary_features": [
+      "20-in. alloy wheels",
+      "Panoramic glass roof with sunshade and front power tilt/slide moonroof",
+      "Heated power outside mirrors with turn signal indicators, power folding, reverse tilt-down with memory feature, and puddle lights with integrated Highlander logo",
+      "Panoramic View Monitor (PVM) and backup camera with dynamic gridlines",
+      "10-in. color Head-Up Display (HUD)",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats; heated second-row seats",
+      "LED projector headlights with Adaptive Front-Lighting System (AFS), auto leveling, LED-strip Daytime Running Lights (DRL) and high-output LED fog lights",
+      "Rain-sensing windshield wipers"
+    ],
+    "key_features": [
+      "Panoramic glass roof with sunshade and front power tilt/slide moonroof",
+      "Panoramic View Monitor (PVM) and backup camera with dynamic gridlines",
+      "Leather-trimmed front- and second-row seats with heated and ventilated front seats; heated second-row seats"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "243 combined net hp",
+      "torque": "175 lb.-ft."
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "LE",
+    "base_msrp": "$41,360",
+    "mpg": "21/28",
+    "seats": 8,
+    "primary_features": [
+      "18-in. 5-spoke silver-painted wheels",
+      "Bench seat for seating up to eight",
+      "Three-zone automatic climate control",
+      "Fabric-trimmed front-, second- and third-row seats; 8-way power-adjustable driver's seat; 4-way manual-adjustable front passenger seat",
+      "Silver-painted dashboard trim and door trim",
+      "6-speaker audio system",
+      "Wireless Apple CarPlay® and Android Auto™ compatibility"
+    ],
+    "key_features": [
+      "18-in. 5-spoke silver-painted wheels",
+      "Bench seat for seating up to eight",
+      "Three-zone automatic climate control"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo engine",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "XLE",
+    "base_msrp": "$44,130",
+    "mpg": "21/28",
+    "seats": 7,
+    "primary_features": [
+      "18-in. silver-painted alloy wheels",
+      "12.3-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial subscription",
+      "SofTex®-trimmed seats and heated power-adjustable driver and front passenger seats",
+      "Available bench seat option for seating up to eight",
+      "Adjustable power liftgate with jam protection",
+      "Digital Key capability (requires Remote Connect trial or subscription; 1-year trial included); depends on availability of applicable cellular network connection",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "key_features": [
+      "Available bench seat option for seating up to eight",
+      "18-in. silver-painted alloy wheels",
+      "12.3-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility, SiriusXM® 3-month trial subscription"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo engine",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Limited",
+    "base_msrp": "$48,860",
+    "mpg": "21/28",
+    "seats": 7,
+    "primary_features": [
+      "20-in. silver-painted alloy wheels",
+      "12.3-in. digital gauge cluster with Multi-Information Display (MID) screen",
+      "Height-adjustable, foot-activated power liftgate with jam protection",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "120V auxiliary AC power outlet",
+      "Leather-trimmed heated and ventilated power-adjustable front seats",
+      "Leather-trimmed heated second-row captain's chairs",
+      "Available bench seat option for seating up to eight",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "Available bench seat option for seating up to eight",
+      "20-in. silver-painted alloy wheels",
+      "12.3-in. digital gauge cluster with Multi-Information Display (MID) screen"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo engine",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Platinum",
+    "base_msrp": "$54,545",
+    "mpg": "20/26",
+    "seats": 7,
+    "primary_features": [
+      "20-in. silver-finished multi-spoke wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "120V auxiliary AC power outlet",
+      "Panoramic View Monitor with 360-degree Overhead View in low-speed drive and reverse, and Curb View",
+      "10-in. color Head-Up Display (HUD)",
+      "Digital rearview mirror with HomeLink® universal transceiver",
+      "Traffic Jam Assist (requires an active Drive Connect trial subscription; depends on availability of applicable cellular network connection)",
+      "Multi-Terrain Select (MTS) with Mud & Sand, Rock & Dirt, and Normal Modes"
+    ],
+    "key_features": [
+      "Power tilt/slide panoramic roof with power sunshade",
+      "20-in. silver-finished multi-spoke wheels",
+      "Panoramic View Monitor"
+    ],
+    "drivetrain": {
+      "engine": "2.4-liter 4-cylinder turbo engine"
+    },
+    "performance": {
+      "horsepower": "265 hp",
+      "torque": "310 lb.-ft."
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid LE",
+    "base_msrp": "$44,710",
+    "mpg": "36/32",
+    "seats": 8,
+    "primary_features": [
+      "18-in. 5-spoke silver-painted wheels",
+      "Bench seat for seating up to eight",
+      "Three-zone automatic climate control",
+      "Fabric-trimmed front-, second- and third-row seats; 8-way power-adjustable driver's seat; 4-way manual-adjustable front passenger seat",
+      "Silver-painted dashboard trim and door trim",
+      "6-speaker audio system",
+      "Wireless Apple CarPlay® and Android Auto™ compatibility"
+    ],
+    "key_features": [
+      "18-in. 5-spoke silver-painted wheels",
+      "Bench seat for seating up to eight",
+      "Three-zone automatic climate control"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "245 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid XLE",
+    "base_msrp": "$45,880",
+    "mpg": "37/34",
+    "seats": 7,
+    "primary_features": [
+      "18-in. silver-painted alloy wheels",
+      "LED taillights",
+      "Adjustable power liftgate with jam protection",
+      "Seven USB-C ports (one media port and six charging ports)",
+      "120V auxiliary AC power outlet",
+      "SofTex®-trimmed seats and heated power-adjustable driver and front passenger seats",
+      "Available bench seat option for seating up to eight",
+      "Smart Key System on all doors and liftgate with Push Button Start, remote keyless entry system with lock, unlock, panic and liftgate functions"
+    ],
+    "key_features": [
+      "Available bench seat option for seating up to eight",
+      "18-in. silver-painted alloy wheels",
+      "LED taillights"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine",
+      "optional": "Available All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "245 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid Limited",
+    "base_msrp": "$52,210",
+    "mpg": "36/32",
+    "seats": 7,
+    "primary_features": [
+      "20-in. silver-finished multi-spoke wheels",
+      "LED fog lights",
+      "Height-adjustable, foot-activated power liftgate with jam protection",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Two 120V outlets (1500W shared) located on the bottom rear of center console and in the luggage area",
+      "Leather-trimmed heated and ventilated power-adjustable front seats",
+      "Leather-trimmed heated second-row captain's chairs",
+      "Available bench seat option for seating up to eight",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "Available bench seat option for seating up to eight",
+      "20-in. silver-finished multi-spoke wheels",
+      "LED fog lights",
+      "Height-adjustable, foot-activated power liftgate with jam protection"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine"
+    },
+    "performance": {
+      "horsepower": "245 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid Nightshade",
+    "base_msrp": "$53,190",
+    "mpg": "36/32",
+    "seats": 7,
+    "primary_features": [
+      "20-in. black alloy wheels",
+      "Black power-folding heated outside mirrors with blind spot warning indicators",
+      "Front and rear lower bumpers in black",
+      "Black-painted roof rails",
+      "Black-painted front hood trim",
+      "Black outside door handles",
+      "Black rear spoiler",
+      "Black badging on rear liftgate"
+    ],
+    "key_features": [
+      "20-in. black alloy wheels",
+      "Black exterior accents",
+      "All-Wheel Drive"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter hybrid engine"
+    },
+    "performance": {
+      "horsepower": "245 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid MAX Limited",
+    "base_msrp": "$55,190",
+    "mpg": "26/27",
+    "seats": 7,
+    "primary_features": [
+      "20-in. two-tone multi-spoke machined-and-black wheels",
+      "LED fog lights",
+      "Height-adjustable, foot-activated power liftgate with jam protection",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Leather-trimmed steering wheel with paddle shifters",
+      "Two 120V outlets (1500W shared) located on the bottom rear of center console and in the luggage area",
+      "Leather-trimmed heated and ventilated power-adjustable front seats",
+      "Leather-trimmed heated second-row captain's chairs",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "20-in. two-tone multi-spoke machined-and-black wheels",
+      "Ultrasuede® and leather-trimmed seats",
+      "Height-adjustable, foot-activated power liftgate with jam protection",
+      "362 net combined horsepower and 400 lb.-ft. of torque"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid MAX 2.4-liter Turbo Performance Hybrid"
+    },
+    "performance": {
+      "horsepower": "362 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "grandhighlander",
+    "trim_name": "Hybrid MAX Platinum",
+    "base_msrp": "$59,275",
+    "mpg": "26/27",
+    "seats": 7,
+    "primary_features": [
+      "20-in. two-tone wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed steering wheel with paddle shifters",
+      "Two 120V outlets (1500W shared) located on the bottom rear of center console and in the luggage area",
+      "10-in. color Head-Up Display (HUD)",
+      "Digital rearview mirror with HomeLink® universal transceiver",
+      "Traffic Jam Assist (requires an active Drive Connect trial or subscription; depends on availability of applicable cellular network connection)",
+      "Panoramic View Monitor with 360-degree Overhead View in low-speed drive and reverse, and Curb View"
+    ],
+    "key_features": [
+      "20-in. two-tone wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed steering wheel with paddle shifters"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid MAX 2.4-liter Turbo Performance Hybrid"
+    },
+    "performance": {
+      "horsepower": "362 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "SR5",
+    "base_msrp": "$41,570",
+    "mpg": "20/26",
+    "seats": 5,
+    "primary_features": [
+      "17-in. alloy wheels",
+      "8-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Available third-row seating",
+      "Power rear window",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Smart Key System",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Tow hitch receiver"
+    ],
+    "key_features": [
+      "17-in. alloy wheels",
+      "8-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Available third-row seating"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Rear-Wheel Drive (RWD) or Part-time 4-Wheel Drive (4WD)"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Sport",
+    "base_msrp": "$48,050",
+    "mpg": "20/26",
+    "seats": 5,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Sport-tuned suspension",
+      "Honeycomb grille, color-keyed overfenders and gloss-black hood scoop",
+      "LED fog lights",
+      "12.3-in. digital gauge cluster",
+      "Heated cloth front seats",
+      "Leather steering wheel and shift knob",
+      "Qi-compatible wireless charging"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Sport-tuned suspension",
+      "Honeycomb grille, color-keyed overfenders and gloss-black hood scoop"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Rear-Wheel Drive (RWD) or Part-time 4-Wheel Drive (4WD)"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Sport Premium",
+    "base_msrp": "$53,410",
+    "mpg": "20/26",
+    "seats": 5,
+    "primary_features": [
+      "SofTex®-trimmed heated and ventilated front seats",
+      "Hands-free power liftgate with power rear window",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "14-speaker JBL® audio system including subwoofer, amp and JBL® FLEX portable Bluetooth® speaker",
+      "Multi-Terrain Monitor (MTM) with selectable front, side or rear views",
+      "Heated leather steering wheel and TRD leather shift knob"
+    ],
+    "key_features": [
+      "SofTex®-trimmed heated and ventilated front seats",
+      "Hands-free power liftgate with power rear window",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronically controlled locking rear differential"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "Limited",
+    "base_msrp": "$56,200",
+    "mpg": "20/24",
+    "seats": 5,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Leather-trimmed heated and ventilated front seats",
+      "Available third-row seating",
+      "Chrome tri-bar grille, chrome accents and color-keyed overfenders",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "14-speaker JBL® audio system including subwoofer, amp and JBL® FLEX portable Bluetooth® speaker",
+      "Adaptive Variable Suspension (AVS)",
+      "Panoramic View Monitor (PVM)",
+      "Power tilt and slide moonroof",
+      "Hands-free power liftgate with power rear window"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Leather-trimmed heated and ventilated front seats",
+      "Available third-row seating"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Rear-Wheel Drive (RWD) or Full-time 4-Wheel Drive (4WD)"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Off-Road i-FORCE MAX",
+    "base_msrp": "$52,790",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "18-in. alloy wheels with 33-in. all-terrain tires",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "Hands-free power liftgate with power rear window",
+      "Multi-Terrain Select (MTS) with Crawl Control (CRAWL)",
+      "2400W AC power supply",
+      "Fixed running boards",
+      "12.3-in. digital gauge cluster",
+      "8-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Heated cloth front seats",
+      "Leather steering wheel and shift knob",
+      "Qi-compatible wireless charging"
+    ],
+    "key_features": [
+      "18-in. alloy wheels with 33-in. all-terrain tires",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "Hands-free power liftgate with power rear window"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronically controlled locking rear differential"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Off-Road Premium i-FORCE MAX",
+    "base_msrp": "$58,570",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "SofTex®-trimmed heated and ventilated front seats",
+      "Multi-Terrain Monitor (MTM) with selectable front, side or rear views",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "14-speaker JBL® audio system including subwoofer, amp and JBL® FLEX portable Bluetooth® speaker",
+      "Heated leather steering wheel and TRD leather shift knob",
+      "2400W AC power supply"
+    ],
+    "key_features": [
+      "SofTex®-trimmed heated and ventilated front seats",
+      "Multi-Terrain Monitor (MTM) with selectable front, side or rear views",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronically controlled locking rear differential"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "Limited i-FORCE MAX",
+    "base_msrp": "$61,000",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Leather-trimmed heated and ventilated front seats",
+      "Chrome tri-bar grille, chrome accents and color-keyed overfenders",
+      "2400W AC power supply",
+      "14-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "14-speaker JBL® audio system including subwoofer, amp and JBL® FLEX portable Bluetooth® speaker",
+      "Adaptive Variable Suspension (AVS)",
+      "Panoramic View Monitor (PVM)",
+      "Power tilt and slide moonroof",
+      "Hands-free power liftgate with power rear window"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Leather-trimmed heated and ventilated front seats",
+      "Chrome tri-bar grille, chrome accents and color-keyed overfenders"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Full-time 4-Wheel Drive (4WD)"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "Platinum",
+    "base_msrp": "$63,660",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "20-in. gloss-black painted alloy wheels",
+      "Premium leather-trimmed seats with custom perforation and stitching",
+      "Dark chrome tri-bar grille, gloss-black accents and color-keyed overfenders",
+      "Heated rear seats",
+      "Head-Up Display (HUD)",
+      "Digital rearview mirror",
+      "Rain-sensing automatic wipers",
+      "Power tilt/slide moonroof"
+    ],
+    "key_features": [
+      "20-in. gloss-black painted alloy wheels",
+      "Premium leather-trimmed seats with custom perforation and stitching",
+      "Dark chrome tri-bar grille, gloss-black accents and color-keyed overfenders"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Full-time 4-Wheel Drive (4WD)"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "5800-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Pro",
+    "base_msrp": "$67,900",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "18-in. matte-black alloy wheels with 33-in. Toyo® all-terrain tires",
+      "FOX® 2.5-in. Internal Bypass QS3 shocks with rear piggyback-style remote reservoirs",
+      "Stabilizer Disconnect Mechanism (SDM)",
+      "Multi-Terrain Select (MTS) and Crawl Control (CRAWL)",
+      "Available Cockpit Red or Black SofTex®-trimmed seats with red stitching",
+      "Heritage-inspired "TOYOTA" grille and high-clearance front bumper with integrated LED light bar and Rigid Industries® fog lights",
+      "2400W AC power supply",
+      "Power tilt/slide moonroof",
+      "Tow Tech Package"
+    ],
+    "key_features": [
+      "18-in. matte-black alloy wheels with 33-in. Toyo® all-terrain tires",
+      "FOX® 2.5-in. Internal Bypass QS3 shocks with rear piggyback-style remote reservoirs",
+      "Stabilizer Disconnect Mechanism (SDM)"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronic locking rear differential"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "5800-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "4runner",
+    "trim_name": "Trailhunter",
+    "base_msrp": "$67,700",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "18-in. bronze alloy wheels with 33-in. Toyo® all-terrain tires",
+      "Old Man Emu 2.5-in. forged shocks with rear piggyback-style remote reservoirs",
+      "ARB® roof rack",
+      "Stabilizer Disconnect Mechanism (SDM)",
+      "Multi-Terrain Select (MTS) and Crawl Control (CRAWL)",
+      "Mineral SofTex®-trimmed seats with yellow stitching",
+      "Heritage-inspired "TOYOTA" grille and high-clearance front bumper with integrated LED light bar and Rigid Industries® color-selectable fog lights",
+      "2400W AC power supply",
+      "Onboard air compressor",
+      "Tow Tech Package"
+    ],
+    "key_features": [
+      "18-in. bronze alloy wheels with 33-in. Toyo® all-terrain tires",
+      "Old Man Emu 2.5-in. forged shocks with rear piggyback-style remote reservoirs",
+      "ARB® roof rack"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronic locking rear differential"
+    },
+    "performance": {
+      "horsepower": "323 hp",
+      "torque": "465 lb.-ft.",
+      "towing": "5800-lb. towing capacity"
+    }
+  },
+  {
+    "base_model": "toyotacrownsignia",
+    "trim_name": "XLE",
+    "base_msrp": "$44,090",
+    "mpg": "39/37",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "LED projector low- and high-beam headlights",
+      "Heated and ventilated front seats, and heated rear seats",
+      "19-in. multi-spoke machine-finished two-tone alloy wheels",
+      "12.3-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Cargo volume: Up to 68.8 cu. ft. with second-row seats laid fully flat"
+    ],
+    "key_features": [
+      "LED projector low- and high-beam headlights",
+      "Heated and ventilated front seats, and heated rear seats",
+      "12.3-in. Toyota Audio Multimedia"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "240 hybrid system net combined horsepower"
+    }
+  },
+  {
+    "base_model": "toyotacrownsignia",
+    "trim_name": "Limited",
+    "base_msrp": "$48,490",
+    "mpg": "39/37",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Panoramic fixed-glass roof with power sunshade",
+      "Heated and ventilated front seats, and heated rear seats",
+      "21-in. 7-twin-spoke dark gray metallic alloy wheels",
+      "12.3-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Cargo volume: Up to 66.1 cu. ft."
+    ],
+    "key_features": [
+      "21-in. 7-twin-spoke dark gray metallic alloy wheels",
+      "Panoramic fixed-glass roof with power sunshade",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "240 hybrid system net combined horsepower"
+    }
+  },
+  {
+    "base_model": "landcruiser",
+    "trim_name": "Land Cruiser 1958",
+    "base_msrp": "$57,200",
+    "mpg": "22/25",
+    "seats": 5,
+    "primary_features": [
+      "Rear and center locking differentials",
+      "Heated front seats and steering wheel",
+      "2400W AC inverter",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "8-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "18-in. dark gray metallic alloy wheels",
+      "Circular LED headlights"
+    ],
+    "key_features": [
+      "Heated front seats and steering wheel",
+      "Rear and center locking differentials",
+      "2400W AC inverter"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Full-time 4WD system"
+    },
+    "performance": {
+      "engine": "i-FORCE MAX hybrid: 326 net combined hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "landcruiser",
+    "trim_name": "Land Cruiser",
+    "base_msrp": "$63,275",
+    "mpg": "22/25",
+    "seats": 5,
+    "primary_features": [
+      "Multi-Terrain Monitor (MTM)",
+      "Rigid Industries® color-selectable LED fog lights",
+      "Stabilizer Disconnect Mechanism (SDM)",
+      "12.3-in. Toyota Audio Multimedia touchscreen",
+      "Multi-Terrain Select (MTS) with Auto, Dirt, Sand, Mud, Rock and Deep Snow",
+      "SofTex®-trimmed seats",
+      "Illuminated entry",
+      "Rectangular LED headlights"
+    ],
+    "key_features": [
+      "Multi-Terrain Monitor (MTM)",
+      "Rigid Industries® color-selectable LED fog lights",
+      "Stabilizer Disconnect Mechanism (SDM)"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Full-time 4WD system"
+    },
+    "performance": {
+      "engine": "i-FORCE MAX hybrid: 326 net combined hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "SR5",
+    "base_msrp": "$64,025",
+    "mpg": "21/24",
+    "seats": 8,
+    "primary_features": [
+      "18-in. silver-painted alloy wheels",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "8-in. Toyota Audio Multimedia touchscreen with 8-speaker audio system",
+      "Panoramic View Monitor (PVM)",
+      "Power tilt/slide moonroof with sliding sunshade"
+    ],
+    "key_features": [
+      "18-in. silver-painted alloy wheels",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)",
+      "8-in. Toyota Audio Multimedia touchscreen with 8-speaker audio system"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "RWD or 4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "Limited",
+    "base_msrp": "$69,795",
+    "mpg": "21/24",
+    "seats": 8,
+    "primary_features": [
+      "20-in. gray-painted and machined-finish alloy wheels",
+      "Leather-trimmed seats; 8-way power-adjustable driver and front passenger seats",
+      "14-in. Toyota Audio Multimedia touchscreen with 8-speaker audio system",
+      "Available TRD Off-Road Package (4WD only)",
+      "Available Nightshade Package",
+      "Available captain's chairs",
+      "Heated steering wheel",
+      "Heated and ventilated front seats"
+    ],
+    "key_features": [
+      "20-in. gray-painted and machined-finish alloy wheels",
+      "Leather-trimmed seats; 8-way power-adjustable driver and front passenger seats",
+      "14-in. Toyota Audio Multimedia touchscreen with 8-speaker audio system"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "RWD or 4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "Platinum",
+    "base_msrp": "$80,035",
+    "mpg": "19/22",
+    "seats": 7,
+    "primary_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Premium LED headlights, LED Daytime Running Lights (DRL) and sequential turn signals",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Reclining, fold-down, fold-up, tumble-forward second-row captain's chairs with center armrests on outboard seats",
+      "14-in. Toyota Audio Multimedia touchscreen with 14 JBL® speakers including subwoofer and amplifier",
+      "Available Load-leveling Rear Height Control Air Suspension plus Adaptive Variable Suspension (AVS) system",
+      "Available TRD Off-Road Package"
+    ],
+    "key_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Premium LED headlights, LED Daytime Running Lights (DRL) and sequential turn signals",
+      "Power tilt/slide panoramic roof with power sunshade"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "1794 Edition",
+    "base_msrp": "$80,850",
+    "mpg": "19/22",
+    "seats": 7,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim",
+      "Trailer Backup Guide with Straight Path Assist (SPA)",
+      "Available TRD Off-Road Package"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "TRD Pro",
+    "base_msrp": "$80,765",
+    "mpg": "19/22",
+    "seats": 7,
+    "primary_features": [
+      "18-in. TRD Pro matte-black forged-aluminum BBS® wheels with TRD center caps",
+      "TRD Pro off-road suspension with 2.5-in. FOX® Internal Bypass coil-overs and rear remote-reservoir shocks, and TRD Pro front stabilizer bar",
+      "Black "TOYOTA" heritage grille with integrated LED light bar and amber marker lights",
+      "SofTex®-trimmed 60/40 split, sliding, power-reclining fold-down third-row seats with adjustable headrests",
+      "TRD Pro dual-tip exhaust",
+      "TRD Pro leather-trimmed manual tilt/telescopic heated steering wheel with TRD badge, red center stripe, and phone, audio, display/infotainment and Driver Assist controls"
+    ],
+    "key_features": [
+      "18-in. TRD Pro matte-black forged-aluminum BBS® wheels with TRD center caps",
+      "TRD Pro off-road suspension with 2.5-in. FOX® Internal Bypass coil-overs and rear remote-reservoir shocks, and TRD Pro front stabilizer bar",
+      "Black "TOYOTA" heritage grille with integrated LED light bar and amber marker lights"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "sequoia",
+    "trim_name": "Capstone",
+    "base_msrp": "$84,435",
+    "mpg": "19/22",
+    "seats": 7,
+    "primary_features": [
+      "22-in. dark chrome and machined-finish alloy wheels",
+      "Premium textured leather-trimmed seats in Shale; 10-way power-adjustable front seats",
+      "Power-extending running boards",
+      "10-in. color Head-Up Display (HUD) with speedometer, navigation and Hybrid System Indicator",
+      "Dark Gray American walnut wood-grain interior trim with backlit 'CAPSTONE' on passenger dashboard and metal speaker grilles",
+      "Instrument panel and door ambient lighting, illuminated driver and passenger footwells, and front- and rear-door LED pocket lights"
+    ],
+    "key_features": [
+      "22-in. dark chrome and machined-finish alloy wheels",
+      "Premium textured leather-trimmed seats in Shale; 10-way power-adjustable front seats",
+      "Power-extending running boards"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX twin-turbo V6 hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "4WD"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corolla",
+    "trim_name": "LE",
+    "base_msrp": "$22,725",
+    "mpg": "32/41",
+    "seats": 5,
+    "primary_features": [
+      "16-in. steel wheels with covers",
+      "7-in Digital Gauge Cluster",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Color-keyed power outside mirrors",
+      "Automatic climate control",
+      "Remote keyless entry system",
+      "Available Smart Key System with Push Button Start",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility"
+    ],
+    "key_features": [
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility"
+    ],
+    "drivetrain": {
+      "engine": "2.0 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corolla",
+    "trim_name": "SE",
+    "base_msrp": "$25,165",
+    "mpg": "31/40",
+    "seats": 5,
+    "primary_features": [
+      "Normal, Sport and Eco driving modes",
+      "7-in. digital gauge cluster",
+      "Dynamic-Shift CVT",
+      "Sport mesh gloss-black front grille with LED accent lighting",
+      "18-in. alloy wheels with graphite-colored finish",
+      "Gray metallic sport side rocker panels and color-keyed rear spoiler",
+      "Premium sport seats with sport fabric inserts",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Smart Key System with Push Button Start",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "key_features": [
+      "Premium sport seats with sport fabric inserts",
+      "Normal, Sport and Eco driving modes",
+      "18-in. alloy wheels with graphite-colored finish"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corolla",
+    "trim_name": "XSE",
+    "base_msrp": "$28,440",
+    "mpg": "31/38",
+    "seats": 5,
+    "primary_features": [
+      "18-in. alloy wheels with graphite-colored finish",
+      "Gray metallic sport side rocker panels and rear spoiler",
+      "Power tilt/slide moonroof with sliding sunshade",
+      "Leather-wrapped tilt/telescopic steering wheel with paddle shifters",
+      "Toyota Audio Multimedia—includes 10.5-in. touchscreen",
+      "Available JBL® Premium Audio",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Qi-compatible wireless charging",
+      "12.3-in. digital gauge cluster with selectable gauges"
+    ],
+    "key_features": [
+      "18-in. alloy wheels with graphite-colored finish",
+      "12.3-in. digital gauge cluster with selectable gauges",
+      "SofTex®-trimmed heated front sport seats with sport fabric inserts"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corollahybrid",
+    "trim_name": "Hybrid LE",
+    "base_msrp": "$24,575",
+    "mpg": "53/46",
+    "seats": 5,
+    "primary_features": [
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Normal and Eco driving modes",
+      "7-in. digital gauge cluster",
+      "Available Smart Key System with Push Button Start",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Available AWD"
+    ],
+    "key_features": [
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Available AWD"
+    ],
+    "drivetrain": {
+      "engine": "1.8L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "Front-Wheel Drive (FWD) or All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "138 hp"
+    }
+  },
+  {
+    "base_model": "corollahybrid",
+    "trim_name": "Hybrid SE",
+    "base_msrp": "$27,015",
+    "mpg": "50/43",
+    "seats": 5,
+    "primary_features": [
+      "Normal, Eco and Sport driving modes",
+      "Electronically controlled CVT",
+      "Sport mesh gloss-black front grille with LED accent lighting",
+      "18-in. alloy wheels with graphite-colored finish",
+      "Gray metallic sport side rocker panels and color-keyed rear spoiler",
+      "Premium sport seats with sport fabric inserts",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Smart Key System with Push Button Start",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Available Qi-compatible wireless charging",
+      "Available AWD",
+      "7-in. digital gauge cluster"
+    ],
+    "key_features": [
+      "Premium sport seats with sport fabric inserts",
+      "Normal, Sport and Eco driving modes",
+      "18-in. alloy wheels with graphite-colored finish"
+    ],
+    "drivetrain": {
+      "engine": "1.8L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "Front-Wheel Drive (FWD) or All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "138 hp"
+    }
+  },
+  {
+    "base_model": "corollahybrid",
+    "trim_name": "Hybrid XLE",
+    "base_msrp": "$28,940",
+    "mpg": "53/46",
+    "seats": 5,
+    "primary_features": [
+      "Power tilt/slide moonroof with sliding sunshade",
+      "16-in. alloy wheels",
+      "Toyota Audio Multimedia—includes 10.5-in. touchscreen",
+      "Available JBL® Premium Audio",
+      "SofTex®-trimmed heated front seats",
+      "Leather-wrapped tilt/telescopic steering wheel",
+      "12.3-in. digital gauge cluster with selectable gauges",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Safety Sense™ 3.0",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Qi-compatible wireless charging"
+    ],
+    "key_features": [
+      "Power tilt/slide moonroof with sliding sunshade",
+      "SofTex®-trimmed heated front seats",
+      "12.3-in. digital gauge cluster with selectable gauges"
+    ],
+    "drivetrain": {
+      "engine": "1.8L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "138 hp"
+    }
+  },
+  {
+    "base_model": "corollahatchback",
+    "trim_name": "SE",
+    "base_msrp": "$24,180",
+    "mpg": "32/41",
+    "seats": 5,
+    "primary_features": [
+      "Dynamic-Shift Continuously Variable Transmission (CVT)",
+      "Paddle shifters",
+      "LED headlights and LED Daytime Running Lights (DRL)",
+      "16-in. alloy wheels",
+      "Gloss-black front upper grille surround",
+      "Color-keyed front lower grille surround",
+      "Automatic climate control",
+      "Fabric sport seats",
+      "4.2-in. Multi-Information Display (MID)",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen display",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Electric Parking Brake (EPB) with Brake Hold function",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)"
+    ],
+    "key_features": [
+      "Paddle shifters",
+      "16-in. alloy wheels",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corollahatchback",
+    "trim_name": "FX",
+    "base_msrp": "$26,780",
+    "mpg": "30/38",
+    "seats": 5,
+    "primary_features": [
+      "Dynamic-Shift Continuously Variable Transmission (CVT)",
+      "Paddle shifters",
+      "18-in gloss-white-finished alloy wheels",
+      "Black lug nuts",
+      "Blackout badging",
+      "Heritage-style rear badge",
+      "Black vented sport wing",
+      "Black mirror caps",
+      "Sport touring heated front seats with Orange stitching",
+      "7-in. digital gauge cluster",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen display",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Qi-compatible wireless charging",
+      "Electric Parking Brake (EPB) with Brake Hold function",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)"
+    ],
+    "key_features": [
+      "18-in. gloss-white-finished alloy wheels",
+      "Black vented sport wing",
+      "Sport touring heated front seats with Orange stitching"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "corollahatchback",
+    "trim_name": "XSE",
+    "base_msrp": "$27,175",
+    "mpg": "30/38",
+    "seats": 5,
+    "primary_features": [
+      "Dynamic-Shift Continuously Variable Transmission (CVT)",
+      "Paddle shifters",
+      "Integrated LED fog lights",
+      "18-in. graphite-colored alloy wheels",
+      "Gloss-black front upper grille surround",
+      "Dual zone automatic climate control",
+      "SofTex®-trimmed heated front sport seats",
+      "7-in. digital gauge cluster",
+      "Toyota Audio Multimedia—includes 8-in. touchscreen display",
+      "Wireless Apple CarPlay® & Android Auto™ compatibility",
+      "JBL® Premium Audio including eight speakers and amplifier",
+      "Qi-compatible wireless charging",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)"
+    ],
+    "key_features": [
+      "Integrated LED fog lights",
+      "18-in. graphite-colored alloy wheels",
+      "7-in digital gauge cluster",
+      "JBL® Premium Audio"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cyl.",
+      "transmission": "Dynamic-Shift CVT",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "169 hp",
+      "torque": "151 lb.-ft."
+    }
+  },
+  {
+    "base_model": "prius",
+    "trim_name": "LE",
+    "base_msrp": "$28,550",
+    "mpg": "57/56",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Safe Exit Alert (SEA)",
+      "23.8 cu. ft. of cargo space",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Integrated backup camera display",
+      "8.0-in. Toyota Audio Multimedia display",
+      "60/40 split fold-down rear seats",
+      "LED Daytime Running Lights (DRL) with on/off feature",
+      "Single-zone climate control system with pollen filtration",
+      "Hill Start Assist Control (HAC)",
+      "17-in. alloy wheels with wheel covers"
+    ],
+    "key_features": [
+      "Top-mount Multi-Information Display (MID) with indicators and 7-in. LCD display",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "8.0-in. Toyota Audio Multimedia display"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "194 hp"
+    }
+  },
+  {
+    "base_model": "prius",
+    "trim_name": "XLE",
+    "base_msrp": "$31,995",
+    "mpg": "52/52",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "19-in. alloy wheels and 195/50R19 tires",
+      "SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Qi-compatible wireless charging with charge indicator light",
+      "SofTex®-trimmed heated tilt/telescopic steering wheel",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Rain-sensing variable intermittent windshield wipers",
+      "Heated front seats",
+      "Auto-dimming rearview mirror with HomeLink®",
+      "Available fixed glass roof"
+    ],
+    "key_features": [
+      "19-in. alloy wheels and 195/50R19 tires",
+      "Qi-compatible wireless charging with charge indicator light",
+      "SofTex®-trimmed front seats with 8-way power-adjustable driver's seat"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "194 hp"
+    }
+  },
+  {
+    "base_model": "prius",
+    "trim_name": "Nightshade Edition",
+    "base_msrp": "$32,800",
+    "mpg": "52/52",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "19-in. alloy wheels with black finish and 195/50R19 tires",
+      "Black with gray stitching SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Qi-compatible wireless charging with charge indicator light",
+      "SofTex®-trimmed heated tilt/telescopic steering wheel",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Rain-sensing variable intermittent windshield wipers",
+      "Heated front seats",
+      "Auto-dimming rearview mirror with HomeLink®",
+      "Available fixed glass roof"
+    ],
+    "key_features": [
+      "19-in. alloy wheels with black finish and 195/50R19 tires",
+      "Qi-compatible wireless charging with charge indicator light",
+      "Black with gray stitching SofTex®-trimmed front seats with 8-way power-adjustable driver's seat"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "194 hp"
+    }
+  },
+  {
+    "base_model": "prius",
+    "trim_name": "Limited",
+    "base_msrp": "$35,565",
+    "mpg": "52/52",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "Digital Key capability. Remote Connect trial or subscription required.",
+      "Driver's seat with memory function with two settings",
+      "12.3-in. Toyota Audio Multimedia display",
+      "8-speaker JBL® Premium Audio including amplifier",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Fixed glass roof",
+      "Power liftback",
+      "Heated and ventilated front seats",
+      "Available Panoramic View Monitor (PVM) with 360-degree Overhead View",
+      "Available digital rearview mirror"
+    ],
+    "key_features": [
+      "Fixed glass roof",
+      "12.3-in. Toyota Audio Multimedia touchscreen display",
+      "8-speaker JBL® Premium Audio including amplifier"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "194 hp"
+    }
+  },
+  {
+    "base_model": "priuspluginhybrid",
+    "trim_name": "SE",
+    "base_msrp": "$33,775",
+    "mpg_mpge": "52/127",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Safe Exit Alert",
+      "20.3 cu. ft. of cargo space with seats up",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Integrated backup camera display",
+      "8.0-in. Toyota Audio Multimedia display",
+      "60/40 split fold-down rear seats",
+      "LED Daytime Running Lights (DRL) with on/off feature",
+      "Single-zone climate control system with pollen filtration",
+      "Hill Start Assist Control (HAC)",
+      "17-in. alloy wheels with wheel covers",
+      "Available Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "Top-mount Multi-Information Display (MID) with indicators and 7-in. LCD display",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "8.0-in. Toyota Audio Multimedia display"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "220 hp"
+    }
+  },
+  {
+    "base_model": "priuspluginhybrid",
+    "trim_name": "XSE",
+    "base_msrp": "$37,025",
+    "mpg_mpge": "48/114",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "19-in. alloy wheels and 195/50R19 tires",
+      "SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Qi-compatible wireless charging with charge indicator light",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Heated front seats",
+      "Auto-dimming rearview mirror with HomeLink®",
+      "Digital Key capability (requires Remote Connect trial or subscription; 1-year trial included)",
+      "Available fixed glass roof",
+      "Available 12.3-in. Toyota Audio Multimedia display"
+    ],
+    "key_features": [
+      "19-in. alloy wheels and 195/50R19 tires",
+      "Qi-compatible wireless charging with charge indicator light",
+      "SofTex®-trimmed front seats with 8-way power-adjustable driver's seat"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "220 hp"
+    }
+  },
+  {
+    "base_model": "priuspluginhybrid",
+    "trim_name": "Nightshade Edition",
+    "base_msrp": "$37,795",
+    "mpg_mpge": "48/114",
+    "seats": 5,
+    "primary_features": [
+      "19-in. alloy wheels with black finish and 195/50R19 tires",
+      "Black with gray stitching SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) standard",
+      "Qi-compatible wireless charging with charge indicator light",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "Heated front seats",
+      "Auto-dimming rearview mirror with HomeLink®",
+      "Digital Key capability (requires Remote Connect trial or subscription; 1-year trial included)",
+      "Available fixed glass roof",
+      "Available 12.3-in. Toyota Audio Multimedia display"
+    ],
+    "key_features": [
+      "19-in. alloy wheels with black finish and 195/50R19 tires",
+      "Black with gray stitching SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Qi-compatible wireless charging with charge indicator light"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "220 hp"
+    }
+  },
+  {
+    "base_model": "priuspluginhybrid",
+    "trim_name": "XSE Premium",
+    "base_msrp": "$40,470",
+    "mpg_mpge": "48/114",
+    "seats": 5,
+    "primary_features": [
+      "Digital Key capability (requires Remote Connect trial or subscription; 1-year trial included)",
+      "Driver's seat with memory function with two settings",
+      "12.3-in. Toyota Audio Multimedia display",
+      "8-speaker JBL® Premium Audio including amplifier",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Fixed glass roof",
+      "Power liftback",
+      "Heated and ventilated front seats",
+      "Available Advanced Technology Package",
+      "Available digital rearview mirror",
+      "Available solar charging roof",
+      "Available heated rear seats"
+    ],
+    "key_features": [
+      "Fixed glass roof",
+      "12.3-in. Toyota Audio Multimedia touchscreen display",
+      "8-speaker JBL® Premium Audio including amplifier"
+    ],
+    "drivetrain": {
+      "engine": "2.0L 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)"
+    },
+    "performance": {
+      "horsepower": "220 hp"
+    }
+  },
+  {
+    "base_model": "camry",
+    "trim_name": "LE",
+    "base_msrp": "$29,000",
+    "mpg": "52/49",
+    "seats": 5,
+    "primary_features": [
+      "16-in. 10-spoke silver-painted alloy wheels",
+      "8-in. Toyota Audio Multimedia touchscreen with six speakers",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Bi-LED headlights with Automatic High Beams (AHB) and auto on/off",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) and Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Qi-compatible wireless charging",
+      "Dual zone automatic climate control with air filter, humidity sensor and rear-seat vents",
+      "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "key_features": [
+      "8-in. Toyota Audio Multimedia touchscreen with six speakers",
+      "16-in. 10-spoke silver-painted alloy wheels",
+      "Dual zone automatic climate control with air filter, humidity sensor and rear-seat vents"
+    ],
+    "drivetrain": {
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "engine": "2.5L 4-Cyl. Gas/Electric Hybrid (HEV)",
+      "horsepower": "225 net combined hp"
+    }
+  },
+  {
+    "base_model": "camry",
+    "trim_name": "SE",
+    "base_msrp": "$31,300",
+    "mpg": "47/45",
+    "seats": 5,
+    "primary_features": [
+      "18-in. multi-spoke black-finished alloy wheels",
+      "8-in. Toyota Audio Multimedia touchscreen with six speakers",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Black sport mesh front grille with racing-inspired air curtains and front side canards",
+      "Sport SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Sport-tuned suspension",
+      "Toyota Safety Sense™ 3.0 (TSS 3.0) and Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Dual zone automatic climate control with air filter, humidity sensor and rear-seat vents",
+      "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "key_features": [
+      "18-in. multi-spoke black-finished alloy wheels",
+      "Black sport mesh front grille with racing-inspired air curtains and front side canards",
+      "Sport SofTex®-trimmed front seats with 8-way power-adjustable driver's seat"
+    ],
+    "drivetrain": {
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "engine": "2.5L 4-Cyl. Gas/Electric Hybrid (HEV)",
+      "horsepower": "225 net combined hp"
+    }
+  },
+  {
+    "base_model": "camry",
+    "trim_name": "Nightshade",
+    "base_msrp": "$32,300",
+    "mpg": "47/45",
+    "seats": 5,
+    "primary_features": [
+      "19-in. satin black-finished alloy wheels",
+      "Gloss-black sport mesh front grille, air curtains and front side canards",
+      "Black rear spoiler",
+      "Black exterior badging",
+      "Black heated power outside mirrors with integrated turn signals and blind spot warning indicators",
+      "Gloss-black rear sport lower diffuser",
+      "Wireless Apple CarPlay® compatibility",
+      "Wireless Android Auto™ compatibility",
+      "Sport SofTex®-trimmed front seats with 8-way power-adjustable driver's seat",
+      "Dual zone automatic climate control with air filter, humidity sensor and rear-seat vents",
+      "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "key_features": [
+      "19-in. satin black-finished alloy wheels",
+      "Gloss-black sport mesh front grille",
+      "Black rear spoiler"
+    ],
+    "drivetrain": {
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "engine": "2.5L 4-Cyl. Gas/Electric Hybrid (HEV)",
+      "horsepower": "225 net combined hp"
+    }
+  },
+  {
+    "base_model": "camry",
+    "trim_name": "XLE",
+    "base_msrp": "$34,000",
+    "mpg": "47/45",
+    "seats": 5,
+    "primary_features": [
+      "18-in. two-tone multi-spoke machined- and black-finish alloy wheels",
+      "12.3-in. Toyota Audio Multimedia touchscreen available with 9-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Digital gauge cluster with selectable gauges",
+      "Dual LED projector headlights and premium LED combination taillights",
+      "Leather- and microfiber-trimmed interior with multi-stage heated front seats",
+      "Dark gray metallic bar front grille and chrome-finished window trim",
+      "Available multi-stage ventilated front seats",
+      "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "key_features": [
+      "12.3-in. Toyota Audio Multimedia touchscreen with six speakers",
+      "Leather- and microfiber-trimmed multi-stage heated front seats",
+      "Available multi-stage ventilated front seats"
+    ],
+    "drivetrain": {
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "engine": "2.5L 4-Cyl. Gas/Electric Hybrid (HEV)",
+      "horsepower": "225 net combined hp"
+    }
+  },
+  {
+    "base_model": "camry",
+    "trim_name": "XSE",
+    "base_msrp": "$35,200",
+    "mpg": "47/45",
+    "seats": 5,
+    "primary_features": [
+      "19-in. smoked gray and black-finished alloy wheels",
+      "12.3-in. Toyota Audio Multimedia touchscreen available with 9-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "12.3-in. digital gauge cluster with selectable gauges",
+      "Dual LED projector headlights and premium LED combination taillights",
+      "Leather-trimmed interior with multi-stage heated front seats",
+      "Color-keyed sport mesh front grille, front side canards and rear diffuser",
+      "Gloss-black rear spoiler and trunk garnish",
+      "Available two-tone Midnight Black Metallic roof",
+      "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    ],
+    "key_features": [
+      "19-in. smoked gray and black-finished alloy wheels",
+      "Sport-tuned suspension",
+      "Single exhaust with dual chrome-finished tips"
+    ],
+    "drivetrain": {
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "Front-Wheel Drive (FWD)",
+      "optional": "Available Electronic On-Demand All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "engine": "2.5L 4-Cyl. Gas/Electric Hybrid (HEV)",
+      "horsepower": "225 net combined hp"
+    }
+  },
+  {
+    "base_model": "gr86",
+    "trim_name": "GR86",
+    "base_msrp": "$30,800",
+    "mpg": "20/26",
+    "acceleration": "0-60 mph in. 6.1 seconds (MT)",
+    "seats": 5,
+    "primary_features": [
+      "2.4L 4-cylinder boxer engine with 228 hp and 184 lb.-ft. of torque",
+      "7-in. Thin-Film Transistor (TFT) GR digital gauge cluster with LCD Multi-Information Display (MID)",
+      "Complimentary 1-year NASA membership, including one free High-Performance Driving Experience (HPDE)",
+      "Torsen® limited-slip differential (LSD)",
+      "GR86 Active Safety Suite",
+      "Rear Parking Sonar with Reverse Automatic Braking (Automatic Transmission only)",
+      "Multi-link rear suspension",
+      "Functional front bumper air inlet ducts, and front-wheel-arch air outlet vents",
+      "GR86 Audio—includes six speakers, 8-in. touchscreen, Android Auto™ & Apple CarPlay® compatibility",
+      "Sport front bucket seats with black side bolsters and seat insert fabric with G-embossed design",
+      "Multi-function in-key remote keyless entry with GR Push Button Start",
+      "Dual chrome-tipped exhaust"
+    ],
+    "key_features": [
+      "2.4L 4-cylinder boxer engine with 228 hp and 184 lb.-ft. of torque",
+      "7-in. Thin-Film Transistor (TFT) GR digital gauge cluster with LCD Multi-Information Display (MID)",
+      "Complimentary 1-year NASA membership, including one free High-Performance Driving Experience (HPDE)"
+    ],
+    "drivetrain": {
+      "engine": "228-hp 2.4L 4-cylinder boxer engine",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "transmission": "6-speed Manual or Automatic Transmission with Dynamic Rev Management and paddle shifters",
+      "vsc_mode": "Vehicle Stability Control Track Mode",
+      "torque": "Peak torque @ 3700 rpm",
+      "acceleration": "0-60 mph: 6.1 seconds (MT); 6.6 seconds (AT)"
+    }
+  },
+  {
+    "base_model": "gr86",
+    "trim_name": "GR86 Premium",
+    "base_msrp": "$33,400",
+    "mpg": "20/26",
+    "acceleration": "0-60 mph in. 6.1 seconds (MT)",
+    "seats": 5,
+    "primary_features": [
+      "18-in. matte-black-painted alloy wheels with Michelin® Pilot® Sport 4 tires",
+      "Color-keyed duckbill rear spoiler",
+      "Blind Spot Detection (BSD)",
+      "Rear Parking Sonar with Reverse Automatic Braking (Automatic Transmission only)",
+      "Complimentary 1-year NASA membership, including one free High-Performance Driving Experience (HPDE)",
+      "Two-stage heated sport seats with leather-trimmed bolsters and Ultrasuede® inserts",
+      "7-in. Thin-Film Transistor (TFT) GR digital gauge cluster with LCD Multi-Information Display (MID)",
+      "GR86 Active Safety Suite",
+      "GR86 Audio—includes eight speakers, 8-in. touchscreen, Android Auto™ & Apple CarPlay® compatibility"
+    ],
+    "key_features": [
+      "18-in. matte-black-painted alloy wheels with Michelin® Pilot® Sport 4 tires",
+      "Color-keyed duckbill rear spoiler",
+      "Complimentary 1-year NASA membership, including one free High-Performance Driving Experience (HPDE)"
+    ],
+    "drivetrain": {
+      "engine": "228-hp 2.4L 4-cylinder boxer engine",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "transmission": "6-speed Manual or Automatic Transmission with Dynamic Rev Management and paddle shifters",
+      "vsc_mode": "Vehicle Stability Control Track Mode",
+      "torque": "Peak torque @ 3700 rpm",
+      "acceleration": "0-60 mph: 6.1 seconds (MT); 6.6 seconds (AT)"
+    }
+  },
+  {
+    "base_model": "gr86",
+    "trim_name": "GR86 Yuzu Edition",
+    "base_msrp": "$36,365",
+    "mpg": "20/26",
+    "acceleration": "0-60 mph in. 6.1 seconds (MT)",
+    "seats": 5,
+    "primary_features": [
+      "18-in. matte-black-painted alloy wheels with Michelin® Pilot® Sport 4 tires",
+      "Black Ultrasuede®–trimmed sport seats with Yellow perforation",
+      "Yellow stitching on the steering wheel, parking brake handle and door trim",
+      "Hand-lever parking brake with leather-trimmed handle cover and Yellow contrast stitching",
+      "Complimentary 1-year NASA membership, including one free High-Performance Driving Experience (HPDE)",
+      "Two-stage heated sport seats with Black Ultrasuede® inserts and leather trim with Yellow accent stitching",
+      "7-in. Thin-Film Transistor (TFT) GR digital gauge cluster with LCD Multi-Information Display (MID)",
+      "GR86 Audio—includes eight speakers, 8-in. touchscreen, Android Auto™ & Apple CarPlay® compatibility"
+    ],
+    "key_features": [
+      "18-in. matte-black-painted alloy wheels with Michelin® Pilot® Sport 4 tires",
+      "Black Ultrasuede®–trimmed sport seats with Yellow perforation",
+      "Yellow stitching on the steering wheel, parking brake handle and door trim"
+    ],
+    "drivetrain": {
+      "engine": "228-hp 2.4L 4-cylinder boxer engine",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "transmission": "6-speed Manual or Automatic Transmission with Dynamic Rev Management and paddle shifters",
+      "vsc_mode": "Vehicle Stability Control Track Mode",
+      "torque": "Peak torque @ 3700 rpm",
+      "acceleration": "0-60 mph: 6.1 seconds (MT); 6.6 seconds (AT)"
+    }
+  },
+  {
+    "base_model": "grcorolla",
+    "trim_name": "GR Corolla",
+    "base_msrp": "$39,920",
+    "mpg": "21/28",
+    "seats": 5,
+    "primary_features": [
+      "Front sport seats in Black BRIN·NAUB® and synthetic leather trim",
+      "Gloss-black front grille with GR badge, and functional air ducts",
+      "8-in. Toyota Audio Multimedia system",
+      "12.3-in. digital gauge cluster",
+      "Dual zone climate control"
+    ],
+    "key_features": [
+      "Gloss-black front grille with GR badge and functional air ducts",
+      "Front sport seats in Black BRIN·NAUB® and synthetic leather trim",
+      "8-in. Toyota Audio Multimedia system"
+    ],
+    "drivetrain": {
+      "engine": "1.6L turbocharged 3-cylinder engine",
+      "transmission": "6-speed iMT or 8-speed DAT",
+      "drive": "GR-FOUR All-Wheel Drive with three power settings"
+    },
+    "performance": {
+      "horsepower": "300 horsepower @ 6500 rpm",
+      "torque": "295 lb.-ft. of torque @ 3000-5500 rpm"
+    }
+  },
+  {
+    "base_model": "grcorolla",
+    "trim_name": "GR Corolla Premium Plus",
+    "base_msrp": "$45,965",
+    "mpg": "21/28",
+    "seats": 5,
+    "primary_features": [
+      "18-in. matte-black 15-spoke alloy wheels with Michelin® Pilot® Sport 5 tires",
+      "Forged carbon-fiber roof with UV protection",
+      "Hood bulge with functional air vents",
+      "Sub-radiator",
+      "Heated front sport seats in Black BRIN·NAUB® and synthetic leather trim with Red stitching; heated steering wheel",
+      "Head-Up Display (HUD)"
+    ],
+    "key_features": [
+      "Forged carbon-fiber roof",
+      "18-in. matte-black 15-spoke alloy wheels with Michelin® Pilot® Sport 5 tires",
+      "Hood bulge with functional air vents"
+    ],
+    "drivetrain": {
+      "engine": "1.6L turbocharged 3-cylinder engine",
+      "transmission": "6-speed iMT or 8-speed DAT",
+      "drive": "GR-FOUR All-Wheel Drive with three power settings"
+    },
+    "performance": {
+      "horsepower": "300 horsepower @ 6500 rpm",
+      "torque": "295 lb.-ft. of torque @ 3000-5500 rpm"
+    }
+  },
+  {
+    "base_model": "grsupra",
+    "trim_name": "3.0",
+    "base_msrp": "$57,500",
+    "mpg": "22/29",
+    "acceleration": "0-60 mph in 3.9 seconds",
+    "seats": 5,
+    "primary_features": [
+      "3.0L twin-scroll single-turbo inline 6-cylinder engine",
+      "Adaptive Variable Sport (AVS) suspension",
+      "Complimentary 1-year NASA membership, including one High-Performance Driving Experience (HPDE)",
+      "Brembo® fixed-caliper disc brakes",
+      "Active Rear Sport Differential",
+      "Dual rear exhaust outlets with brushed stainless steel exhaust tips",
+      "14-way power-adjustable seats with driver's-seat memory function",
+      "Chassis braces in engine bay"
+    ],
+    "key_features": [
+      "3.0L twin-scroll single-turbo inline 6-cylinder engine",
+      "Adaptive Variable Sport (AVS) suspension",
+      "Complimentary 1-year NASA membership, including one High-Performance Driving Experience (HPDE)"
+    ],
+    "drivetrain": {
+      "engine": "3.0L 6-cylinder engine",
+      "transmission": "6-speed intelligent Manual Transmission (iMT) or 8-speed Automatic Transmission with paddle shifters",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "horsepower": "382 horsepower @ 5800-6500 rpm",
+      "torque": "368 lb.-ft. of torque @ 1800-5000 rpm"
+    }
+  },
+  {
+    "base_model": "grsupra",
+    "trim_name": "3.0 Premium",
+    "base_msrp": "$60,650",
+    "mpg": "22/29",
+    "acceleration": "0-60 mph in 3.9 seconds",
+    "seats": 5,
+    "primary_features": [
+      "14-way heated power-adjustable sport seats",
+      "12-speaker JBL® HiFi Surround Sound system (500W)",
+      "Complimentary 1-year NASA membership, including one High-Performance Driving Experience (HPDE)",
+      "Brembo® red-painted fixed-caliper disc brakes with Supra logo",
+      "Sport pedals",
+      "Full-color Head-Up Display (HUD)",
+      "Qi-compatible wireless smartphone charging",
+      "Toyota Supra Connect trial"
+    ],
+    "key_features": [
+      "14-way heated power-adjustable Black leather-trimmed sport seats with driver's-seat memory function",
+      "12-speaker JBL® HiFi Surround Sound system (500W)",
+      "Complimentary 1-year NASA membership, including one High-Performance Driving Experience (HPDE)"
+    ],
+    "drivetrain": {
+      "engine": "3.0L 6-cylinder engine",
+      "transmission": "6-speed intelligent Manual Transmission (iMT) or 8-speed Automatic Transmission with paddle shifters",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "horsepower": "382 horsepower @ 5800-6500 rpm",
+      "torque": "368 lb.-ft. of torque @ 1800-5000 rpm"
+    }
+  },
+  {
+    "base_model": "grsupra",
+    "trim_name": "MkV Final Edition",
+    "base_msrp": "$68,550",
+    "mpg": "22/29",
+    "acceleration": "0-60 mph in 3.9 seconds",
+    "seats": 5,
+    "primary_features": [
+      "GR embroidered headrests and red seatbelts",
+      "Upgraded performance dampers with Adaptive Variable Suspension (AVS)",
+      "Larger front brake calipers and rotors",
+      "19-in. matte-black forged-aluminum wheels",
+      "Carbon-fiber ducktail spoiler and front spats",
+      "Matte-black rear Supra emblem",
+      "GR camo car cover with storage bag",
+      "Black Alcantara®-trimmed sport seats",
+      "Leather-trimmed shift knob with red ring (MT only)",
+      "Cup holder cover"
+    ],
+    "key_features": [
+      "GR embroidered headrests and red seatbelts",
+      "Upgraded performance dampers with Adaptive Variable Suspension (AVS)",
+      "Larger front brake calipers and rotors"
+    ],
+    "drivetrain": {
+      "engine": "3.0L 6-cylinder engine",
+      "transmission": "6-speed intelligent Manual Transmission (iMT) or 8-speed Automatic Transmission with paddle shifters",
+      "drive": "Rear-Wheel Drive (RWD)"
+    },
+    "performance": {
+      "horsepower": "382 horsepower @ 5800-6500 rpm",
+      "torque": "368 lb.-ft. of torque @ 1800-5000 rpm"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "LE",
+    "base_msrp": "$40,120",
+    "mpg": "36/36",
+    "seats": 8,
+    "primary_features": [
+      "Dual power sliding side doors",
+      "Remote keyless entry system with Push Button Start",
+      "17-in. alloy wheels",
+      "Power liftgate",
+      "Black roof rails",
+      "LED headlights and LED Daytime Running Lights (DRL)",
+      "Three-zone automatic climate control",
+      "7-in. Multi-Information Display (MID)",
+      "60/40 One-Motion-Stow Split & Stow 3rd Row® seat",
+      "Manual second- and third-row sunshades",
+      "8-in. touchscreen with wireless Android Auto™ & wireless Apple CarPlay®",
+      "Seven USB ports",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "Toyota Safety Sense™ 2.0 (TSS 2.0)"
+    ],
+    "key_features": [
+      "Dual power sliding doors",
+      "Remote keyless entry system with Push Button Start",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "FWD or AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "XLE",
+    "base_msrp": "$44,820",
+    "mpg": "36/36",
+    "seats": 7,
+    "primary_features": [
+      "Power tilt/slide moonroof with sunshade",
+      "Smart Key System with Push Button Start",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)",
+      "SofTex®-trimmed seats, including: second-row captain's chairs with super-long-slide feature and heated front seats",
+      "Available second-row bench with stowable center seat",
+      "Four-zone automatic climate control",
+      "Hands-free dual power sliding side doors",
+      "Black roof rails",
+      "Available hands-free power liftgate with jam protection",
+      "Available 1500W-capable power outlets",
+      "Available HD Entertainment System"
+    ],
+    "key_features": [
+      "Power tilt/slide moonroof with sunshade",
+      "Hands-free dual power sliding side doors",
+      "SofTex®-trimmed seats"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "FWD or AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "XSE",
+    "base_msrp": "$48,045",
+    "mpg": "36/36",
+    "seats": 7,
+    "primary_features": [
+      "Available 20-in. dark wheels",
+      "Sport-tuned suspension",
+      "SofTex®-trimmed sport seats, including: second-row captain's chairs with super-long-slide feature and heated front seats",
+      "Black side rocker panels",
+      "Metallic black sport mesh front grille",
+      "12-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Hands-free dual power sliding side doors",
+      "Available hands-free power liftgate with jam protection",
+      "Available 1500W-capable power outlets",
+      "Available HD Rear-Seat Entertainment Center"
+    ],
+    "key_features": [
+      "Available 20-in. dark wheels",
+      "Sport-tuned suspension",
+      "SofTex®-trimmed sport seats"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "FWD or AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "Limited",
+    "base_msrp": "$50,805",
+    "mpg": "36/36",
+    "seats": 7,
+    "primary_features": [
+      "12.3-in. digital gauge cluster",
+      "12-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Hands-free dual power sliding side doors",
+      "Leather-trimmed seats, including: heated and ventilated front seats and second-row captain's chairs with super-long-slide feature and available ottomans",
+      "18-in. bright wheels",
+      "Dark-gray metallic grille",
+      "Chrome-finished roof rails",
+      "Qi-compatible wireless charging",
+      "Manual second- and third-row sunshades",
+      "Vacuum and FridgeBox™ available as an accessory"
+    ],
+    "key_features": [
+      "12-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "12.3-in. digital gauge cluster",
+      "Leather-trimmed seats"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "FWD or AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "Woodland Edition",
+    "base_msrp": "$50,900",
+    "mpg": "35/36",
+    "seats": 7,
+    "primary_features": [
+      "All-Wheel Drive (AWD) with increased ground clearance",
+      "SofTex®-trimmed sport seats, including: heated front seats and second-row captain's chairs with super-long-slide feature",
+      "1500W-capable power outlets",
+      "18-in. 6-spoke dark-finished alloy wheels",
+      "Tow hitch with 3500-lb. towing capability",
+      "Black roof rails",
+      "Black badging",
+      "12-speaker JBL® Premium Audio including subwoofer and amplifier",
+      "Woodland Edition themed floor mats",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)"
+    ],
+    "key_features": [
+      "All-Wheel Drive (AWD) with increased ground clearance",
+      "1500W-capable power outlets",
+      "Tow hitch with 3500-lb. towing capability"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "sienna",
+    "trim_name": "Platinum",
+    "base_msrp": "$57,510",
+    "mpg": "35/36",
+    "seats": 7,
+    "primary_features": [
+      "18-in. two-tone wheels",
+      "10-in. color Head-Up Display (HUD)",
+      "Signature Bi-LED projector headlights and LED-strip Daytime Running Lights (DRL)",
+      "Panoramic View Monitor with Perimeter Scan and 360-degree Overhead View",
+      "Heated steering wheel",
+      "Leather-trimmed seats, including: heated and ventilated front seats and heated second-row captain's chairs with super-long-slide feature and available ottomans",
+      "Standard Vacuum and FridgeBox™",
+      "Available 1500W-capable power outlets",
+      "Available HD Rear-Seat Entertainment Center"
+    ],
+    "key_features": [
+      "18-in. two-tone wheels",
+      "10-in. color Head-Up Display (HUD)",
+      "Panoramic View Monitor with Perimeter Scan and 360-degree Overhead View"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid 2.5L 4-Cyl.",
+      "transmission": "ECVT",
+      "drive": "AWD"
+    },
+    "performance": {
+      "horsepower": "245 net combined hp"
+    }
+  },
+  {
+    "base_model": "toyotacrown",
+    "trim_name": "XLE",
+    "base_msrp": "$41,440",
+    "mpg": "42/41",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "19-in. multi-spoke machined-finish two-tone alloy wheels",
+      "12.3-in. Toyota Audio Multimedia with wireless Apple CarPlay® & Android Auto™ compatibility"
+    ],
+    "key_features": [
+      "2.5-liter 4-Cylinder Hybrid",
+      "Leather-trimmed heated and ventilated front seats",
+      "All-Wheel Drive (AWD)"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "236 hybrid system net combined horsepower"
+    }
+  },
+  {
+    "base_model": "toyotacrown",
+    "trim_name": "Limited",
+    "base_msrp": "$45,950",
+    "mpg": "42/41",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Leather-trimmed heated and ventilated front seats",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "Quad-LED projector low- and high-beam headlights",
+      "Panoramic fixed-glass roof with power sunshade",
+      "11-speaker JBL® Premium Audio including subwoofer and amplifier"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "236 hybrid system net combined horsepower"
+    }
+  },
+  {
+    "base_model": "toyotacrown",
+    "trim_name": "Nightshade",
+    "base_msrp": "$48,765",
+    "mpg": "42/41",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Leather-trimmed heated and ventilated front seats",
+      "Front and Rear Parking Assist with Automatic Braking (PA w/AB)"
+    ],
+    "key_features": [
+      "21-in. 10-spoke wheels with matte-black finish",
+      "Black mirror caps and dark badging",
+      "Panoramic fixed-glass roof with power sunshade"
+    ],
+    "drivetrain": {
+      "engine": "2.5-liter 4-Cylinder Hybrid",
+      "transmission": "Electronically controlled Continuously Variable Transmission (ECVT)",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "236 hybrid system net combined horsepower"
+    }
+  },
+  {
+    "base_model": "toyotacrown",
+    "trim_name": "Platinum",
+    "base_msrp": "$54,990",
+    "mpg": "29/32",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Power trunk with hands-free kick sensor function",
+      "Panoramic View Monitor (PVM) with 360-degree Overhead View in low-speed drive and reverse, and Curb View",
+      "Available bi-tone exterior color"
+    ],
+    "key_features": [
+      "Hybrid MAX 2.4L 4-Cyl. turbocharged hybrid",
+      "21-in. 10-spoke machined-finish alloy wheels with black accents",
+      "10-in. Head-up Display (HUD)"
+    ],
+    "drivetrain": {
+      "engine": "Hybrid MAX 2.4-liter Turbo Performance Hybrid",
+      "transmission": "Direct Shift-6AT 6-speed automatic transmission",
+      "drive": "All-Wheel Drive (AWD)"
+    },
+    "performance": {
+      "horsepower": "340 net combined horsepower"
+    }
+  },
+  {
+    "base_model": "mirai",
+    "trim_name": "XLE",
+    "base_msrp": "$51,795",
+    "mpge": "76/71",
+    "seats": 5,
+    "primary_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "19-in. aluminum alloy wheels",
+      "One USB-C media port, three USB-C charge ports",
+      "Qi-compatible wireless smartphone charging",
+      "Premium Audio with 14 JBL® speakers, 12.3-in. touchscreen display and wireless Apple CarPlay® and Android Auto™ compatibility",
+      "Bi-beam auto-leveling LED headlights",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA)",
+      "LED taillights and rear combination lights",
+      "Auto-dimming rearview mirror and HomeLink® universal transceiver"
+    ],
+    "key_features": [
+      "Toyota Safety Sense™ 3.0 (TSS 3.0)",
+      "Premium Audio with 14 JBL® speakers and 12.3-in. touchscreen display",
+      "19-in. aluminum alloy wheels"
+    ],
+    "drivetrain": {
+      "system": "Toyota Fuel Cell System (TFCS)",
+      "transmission": "Single speed",
+      "drive": "RWD"
+    },
+    "performance": {
+      "horsepower": "182 hp",
+      "torque": "300 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "SR",
+    "base_msrp": "$31,590",
+    "mpg": "20/26",
+    "seats": 2,
+    "primary_features": [
+      "Smart Key System",
+      "17-in. alloy wheels (Double Cab only)",
+      "8-in. audio multimedia display with wireless Apple CarPlay® and Android Auto™ compatibility"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "Available 6-speed Manual Transmission",
+      "Available in Double Cab with 5-ft. bed, or XtraCab with 6-ft. bed"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "optional_transmission": "6-speed Manual Transmission (Double Cab only)"
+    },
+    "performance": {
+      "engine_auto": "i-FORCE 2.4L turbocharged engine: 278 hp; 317 lb.-ft. of torque (Automatic Transmission)",
+      "engine_manual": "i-FORCE 2.4L turbocharged engine: 270 hp; 310 lb.-ft. of torque (Manual Transmission)"
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "SR5",
+    "base_msrp": "$36,220",
+    "mpg": "21/26",
+    "seats": 2,
+    "primary_features": [
+      "Coil-spring multi-link rear suspension (Double Cab only)",
+      "8-in. audio multimedia display with wireless Apple CarPlay® and Android Auto™ compatibility",
+      "17-in. alloy wheels"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "Coil-spring rear suspension (Double Cab only)",
+      "Available in Double Cab with 5-ft. or 6-ft. bed, and XtraCab with 6-ft. bed"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed Automatic Transmission"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD PreRunner",
+    "base_msrp": "$38,520",
+    "mpg": "20/24",
+    "seats": 2,
+    "primary_features": [
+      "Electronically controlled locking rear differential",
+      "32-in. BFGoodrich® all-terrain tires",
+      "Front suspension lift"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "Electronically controlled locking rear differential",
+      "XtraCab utility-focused rear storage with 6-ft. bed"
+    ],
+    "drivetrain": {
+      "drive": "Rear-Wheel Drive (RWD) with Automatic Limited-Slip Differential (Auto LSD)",
+      "transmission": "8-speed Automatic Transmission"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD Sport",
+    "base_msrp": "$39,800",
+    "mpg": "20/24",
+    "seats": 5,
+    "primary_features": [
+      "TRD sport-tuned, twin-tube shocks",
+      "18-in. TRD Sport alloy wheels",
+      "12.3-in. digital gauge cluster"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "TRD sport-tuned suspension",
+      "Available 6-speed intelligent Manual Transmission (iMT)"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "optional_transmission": "6-speed Manual Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive",
+      "optional_drive": "Rear-Wheel Drive (RWD) with Automatic Limited-Slip Differential (Auto LSD)"
+    },
+    "performance": {
+      "engine_auto": "i-FORCE 2.4L turbocharged engine: 278 hp; 317 lb.-ft. of torque (Automatic Transmission)",
+      "engine_manual": "i-FORCE 2.4L turbocharged engine: 270 hp; 310 lb.-ft. of torque (Manual Transmission)"
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD Off-Road",
+    "base_msrp": "$42,200",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "Electronically controlled locking rear differential",
+      "Available Stabilizer Disconnect Mechanism (SDM)",
+      "Available Multi-Terrain Select with Crawl Control"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "Available 6-speed intelligent Manual Transmission (iMT)"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "optional_transmission": "6-speed Manual Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "engine_auto": "i-FORCE 2.4L turbocharged engine: 278 hp; 317 lb.-ft. of torque (Automatic Transmission)",
+      "engine_manual": "i-FORCE 2.4L turbocharged engine: 270 hp; 310 lb.-ft. of torque (Manual Transmission)"
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "Limited",
+    "base_msrp": "$52,955",
+    "mpg": "20/23",
+    "seats": 5,
+    "primary_features": [
+      "Adaptive Variable Suspension (AVS)",
+      "Power open-and-close tailgate and power-extending running boards",
+      "SofTex®-trimmed interior with walnut burl-wood accents"
+    ],
+    "key_features": [
+      "i-FORCE 2.4L turbocharged engine",
+      "Adaptive Variable Suspension (AVS)",
+      "18-in. chrome-finish alloy wheels and exterior accents"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD Sport i-FORCE MAX",
+    "base_msrp": "$46,720",
+    "mpg": "22/24",
+    "seats": 5,
+    "primary_features": [
+      "TRD sport-tuned, twin-tube shocks",
+      "18-in. TRD Sport alloy wheels",
+      "12.3-in. digital gauge cluster"
+    ],
+    "key_features": [
+      "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "TRD sport-tuned suspension",
+      "2400W power supply"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD Off-Road i-FORCE MAX",
+    "base_msrp": "$47,020",
+    "mpg": "22/24",
+    "seats": 5,
+    "primary_features": [
+      "Electronically controlled locking rear differential",
+      "Available Stabilizer Disconnect Mechanism (SDM)",
+      "Available Multi-Terrain Select with Crawl Control"
+    ],
+    "key_features": [
+      "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "2400W power supply"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "Limited i-FORCE MAX",
+    "base_msrp": "$56,280",
+    "mpg": "23/24",
+    "seats": 5,
+    "primary_features": [
+      "Adaptive Variable Suspension (AVS)",
+      "Power open-and-close tailgate and power-extending running boards",
+      "SofTex®-trimmed interior with walnut burl-wood accents"
+    ],
+    "key_features": [
+      "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "Adaptive Variable Suspension (AVS)",
+      "18-in. chrome-finish alloy wheels and exterior accents"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "Full-time 4-Wheel Drive with electronic locking center differential"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "Trailhunter",
+    "base_msrp": "$63,135",
+    "mpg": "22/24",
+    "seats": 5,
+    "primary_features": [
+      "Old Man Emu® 2.5-in. forged monotube position-sensitive shocks with rear piggyback-style remote reservoirs",
+      "High-clearance front bumper, rock rails and ARB® steel rear bumper with recovery hooks",
+      "33-in. rugged-terrain tires with 18-in. wheels"
+    ],
+    "key_features": [
+      "i-FORCE MAX 2.4L turbocharged hybrid powertrain with high-mount air intake",
+      "Old Man Emu® 2.5-in. forged monotube position-sensitive shocks with rear piggyback-style remote reservoirs",
+      "High-clearance front bumper, rock rails and ARB® steel rear bumper with recovery hooks"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "323 hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tacoma",
+    "trim_name": "TRD Pro",
+    "base_msrp": "$64,135",
+    "mpg": "22/24",
+    "seats": 5,
+    "primary_features": [
+      "2.5-in. FOX® Internal Bypass QS3 shocks with rear piggyback-style remote reservoirs",
+      "IsoDynamic Performance front seats with dampening system",
+      "33-in. rugged-terrain tires and 18-in. wheels"
+    ],
+    "key_features": [
+      "i-FORCE MAX 2.4L turbocharged hybrid powertrain",
+      "2.5-in. FOX® Internal Bypass QS3 shocks with rear piggyback-style remote reservoirs",
+      "IsoDynamic Performance front seats with dampening system"
+    ],
+    "drivetrain": {
+      "transmission": "8-speed Automatic Transmission",
+      "drive": "4WDemand part-time 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "326 hp",
+      "torque": "465 lb.-ft."
+    }
+  },
+  {
+    "base_model": "tundra",
+    "trim_name": "SR",
+    "base_msrp": "$41,260",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "18-in. styled-steel wheels",
+      "Aluminum-reinforced composite bed",
+      "8-in. Toyota Audio Multimedia touchscreen",
+      "Wireless Android Auto™ and Apple CarPlay® compatibility",
+      "Smart Key System with Push Button Start",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "18-in. styled-steel wheels",
+      "Aluminum-reinforced composite bed",
+      "8-in. Toyota Audio Multimedia touchscreen"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE Twin-Turbo V6",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "358 hp",
+      "torque": "406 lb.-ft."
+    },
+    "configuration": [
+      "Double Cab 6.5-ft. bed",
+      "Double Cab 8.1-ft. bed",
+      "CrewMax 5.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundra",
+    "trim_name": "SR5",
+    "base_msrp": "$46,510",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "18-in. alloy wheels",
+      "Tow hitch receiver and Integrated Trailer Brake Controller (ITBC)",
+      "Selectable driving and TOW/HAUL modes",
+      "Power horizontal or vertical rear window",
+      "Available TRD Off-Road and TRD Rally Packages",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "18-in. alloy wheels",
+      "Tow hitch receiver and Integrated Trailer Brake Controller (ITBC)",
+      "Selectable driving and TOW/HAUL modes"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE Twin-Turbo V6",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "389 hp",
+      "torque": "479 lb.-ft."
+    },
+    "configuration": [
+      "Double Cab 6.5-ft. bed",
+      "Double Cab 8.1-ft. bed",
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundra",
+    "trim_name": "Limited",
+    "base_msrp": "$54,860",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "20-in. alloy wheels",
+      "14-in. Toyota Audio Multimedia touchscreen",
+      "Leather-trimmed 8-way power-adjustable front seats",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA) and Trailer Merge Warning",
+      "Available TRD Off-Road Package",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. alloy wheels",
+      "14-in. Toyota Audio Multimedia touchscreen",
+      "Leather-trimmed 8-way power-adjustable front seats"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE Twin-Turbo V6",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "389 hp",
+      "torque": "479 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundra",
+    "trim_name": "Platinum",
+    "base_msrp": "$63,695",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed 10-way power-adjustable front seats",
+      "12.3-in. digital gauge cluster",
+      "Available Adaptive Variable Suspension (AVS) and load-leveling rear air suspension",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed 10-way power-adjustable front seats"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE Twin-Turbo V6",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "389 hp",
+      "torque": "479 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundra",
+    "trim_name": "1794 Edition",
+    "base_msrp": "$64,380",
+    "mpg": "18/23",
+    "seats": 5,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim",
+      "Trailer Backup Guide with Straight Path Assist (SPA)",
+      "Available TRD Off-Road Package",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE Twin-Turbo V6",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "389 hp",
+      "torque": "479 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundrahybrid",
+    "trim_name": "Limited i-FORCE MAX",
+    "base_msrp": "$58,560",
+    "mpg": "20/24",
+    "seats": 5,
+    "primary_features": [
+      "20-in. alloy wheels",
+      "14-in. Toyota Audio Multimedia touchscreen",
+      "Leather-trimmed 8-way power-adjustable front seats",
+      "Blind Spot Monitor (BSM) with Rear Cross-Traffic Alert (RCTA) and Trailer Merge Warning",
+      "Available TRD Off-Road Package",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. alloy wheels",
+      "14-in. Toyota Audio Multimedia touchscreen",
+      "Leather-trimmed 8-way power-adjustable front seats"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundrahybrid",
+    "trim_name": "Platinum i-FORCE MAX",
+    "base_msrp": "$70,605",
+    "mpg": "19/22",
+    "seats": 5,
+    "primary_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed 10-way power-adjustable front seats",
+      "12.3-in. digital gauge cluster",
+      "Available Adaptive Variable Suspension (AVS) and load-leveling rear air suspension",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. dark-gray-painted alloy wheels",
+      "Power tilt/slide panoramic roof with power sunshade",
+      "Leather-trimmed 10-way power-adjustable front seats"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundrahybrid",
+    "trim_name": "1794 Edition i-FORCE MAX",
+    "base_msrp": "$71,305",
+    "mpg": "19/22",
+    "seats": 5,
+    "primary_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim",
+      "Trailer Backup Guide with Straight Path Assist (SPA)",
+      "Available TRD Off-Road Package",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "20-in. machined-finish alloy wheels",
+      "Chrome-finished grille and exterior accents",
+      "Saddle Tan interior with American walnut wood-grain trim"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid",
+      "transmission": "10-speed Electronically Controlled automatic Transmission with intelligence (ECT-i)",
+      "drive": "Rear-Wheel Drive or 4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed",
+      "CrewMax 6.5-ft. bed"
+    ]
+  },
+  {
+    "base_model": "tundrahybrid",
+    "trim_name": "TRD Pro",
+    "base_msrp": "$72,565",
+    "mpg": "18/20",
+    "seats": 5,
+    "primary_features": [
+      "18-in. BBS® forged-aluminum wheels with Falken® WILDPEAK All-Terrain tires",
+      "TRD Pro off-road suspension with FOX® shocks and 1.1-in. front lift",
+      "Heritage-inspired 'TOYOTA' grille with LED light bar and marker lights",
+      "12-speaker JBL® Premium Audio",
+      "Multi-Terrain Select with Crawl Control (CRAWL)",
+      "Electronically controlled locking rear differential",
+      "Toyota Safety Sense™ 2.5 (TSS 2.5)"
+    ],
+    "key_features": [
+      "18-in. BBS® forged-aluminum wheels with Falken® WILDPEAK All-Terrain tires",
+      "TRD Pro off-road suspension with FOX® shocks and 1.1-in. front lift",
+      "Heritage-inspired 'TOYOTA' grille with LED light bar and marker lights"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE MAX Twin-Turbo V6 Hybrid",
+      "drive": "4-Wheel Drive"
+    },
+    "performance": {
+      "horsepower": "437 hp",
+      "torque": "583 lb.-ft."
+    },
+    "configuration": [
+      "CrewMax 5.5-ft. bed"
+    ]
+  },
+  
+  {
+    "base_model": "4runner",
+    "trim_name": "TRD Off-Road",
+    "base_msrp": "$49,990",
+    "mpg": "19/25",
+    "seats": 5,
+    "primary_features": [
+      "18-in. alloy wheels with 33-in. all-terrain tires",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "Multi-Terrain Select (MTS) with Crawl Control (CRAWL)",
+      "Fixed running boards",
+      "12.3-in. digital gauge cluster",
+      "8-in. Toyota Audio Multimedia touchscreen with wireless Apple CarPlay® & Android Auto™ compatibility",
+      "Heated cloth front seats",
+      "Leather steering wheel and shift knob",
+      "Qi-compatible wireless charging"
+    ],
+    "key_features": [
+      "18-in. alloy wheels with 33-in. all-terrain tires",
+      "Bilstein® monotube shocks with remote reservoirs",
+      "Multi-Terrain Select (MTS) with Crawl Control (CRAWL)"
+    ],
+    "drivetrain": {
+      "engine": "i-FORCE 2.4L turbocharged engine",
+      "transmission": "8-speed automatic transmission",
+      "drive": "Part-time 4-Wheel Drive (4WD)",
+      "differential": "Electronically controlled locking rear differential"
+    },
+    "performance": {
+      "horsepower": "278 hp",
+      "torque": "317 lb.-ft.",
+      "towing": "6000-lb. towing capacity"
+    }
+  }
