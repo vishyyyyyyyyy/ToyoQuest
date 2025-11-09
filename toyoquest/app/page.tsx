@@ -3,6 +3,7 @@ import Navbar from './navbar';
 import { FaCircle } from "react-icons/fa6";
 import { FaArrowCircleDown } from "react-icons/fa";
 import Link from 'next/link';
+import Start from "./start/page";
 
 
 export default function Home() {
@@ -10,7 +11,7 @@ export default function Home() {
     <>
       <Navbar />
       <div className="flex flex-col">
-        <div className="min-h-screen bg-white">
+        <div className="min-h-[90vh] bg-white">
           <div className="flex flex-col items-center justify-center min-h-[200px] py-2 bg-[#E10A1D] text-white leading-loose" >
             <h1 className="text-5xl font-bold">Welcome to ToyoQuest!<br /> Embark on an adventure to find the car made for you.</h1>
           </div>
@@ -24,7 +25,7 @@ export default function Home() {
               <h2 className= " absolute -left-42 top-50 text-black font-bold text-2xl transform rotate-270"> works How it works How it</h2>
 
               <div className= "bg-[#E10A1D] w-100 h-80 p-10 mb-6 mt-15 text-white rounded-md left-3">
-              <h2 className="text-5xl font-semibold mb-4">How it <br /> works</h2>
+              <h2 className="text-5xl font-semibold mb-4">How it <br /> works: </h2>
               <p className="mt-2 font-weight-400  "> <br/ > Find your dream car in just 2 simple steps:</p>
               </div>
               </div>
@@ -70,13 +71,17 @@ export default function Home() {
 
             </div>
 
-            <div className=" underline text-lg font-semibold text-black mt-12 items-align-center gap-4 justify-center flex">
+            <div className=" underline text-md font-semibold text-black mt-4 items-align-center gap-4 justify-center flex">
                 <Link href = "/start">Get Started Below</Link>
                 <FaArrowCircleDown className="text-[#E10A1D] mt-1"/>
                 {/* add click animaiton scroll here */}
               </div>
           </div>
+
+          <Start/ >
     </div>
+
+
     </>
 
   );
