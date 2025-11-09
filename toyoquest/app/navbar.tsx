@@ -7,8 +7,8 @@ export default function Navbar() {
     <nav>
       <div className="flex flex-row justify-between items-center border-b-6 p-4 font-bold text-black bg-white">
        TOYOQUEST
-        <button aria-label="Open menu" className="p-2">
-        </button>
+       <img src="https://www.vectorlogo.zone/logos/toyota/toyota-tile.svg" alt="Toyota Logo" className="w-10 h-10 ml-2" >
+        </img>
       </div>
     </nav>
   );

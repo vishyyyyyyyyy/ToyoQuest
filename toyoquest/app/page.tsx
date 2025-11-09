@@ -16,14 +16,16 @@ export default function Home() {
 
 
           <div className="flex flex-row items-center mt-8 gap-25 justify-center text-white">
-              <h2 className= " absolute left-43 top-80 text-black font-bold text-2xl">How it works How it works How it</h2>
-              <h2 className= " absolute left-105 top-125 text-black font-bold text-2xl transform rotate-90"> works How it works How it</h2>
-              <h2 className= " absolute left-43 top-170 text-black font-bold text-2xl transform rotate-180">works How it works How it works </h2>
-              <h2 className= " absolute -left-5 top-125 text-black font-bold text-2xl transform rotate-270"> works How it works How it</h2>
+            <div className="relative text-nowrap">
+              <h2 className= " absolute left-2 top-7 text-black font-bold text-2xl">How it works How it works How it</h2>
+              <h2 className= " absolute left-65 top-50 text-black font-bold text-2xl transform rotate-90"> works How it works How it</h2>
+              <h2 className= " absolute left-2 top-95 text-black font-bold text-2xl transform rotate-180">works How it works How it works </h2>
+              <h2 className= " absolute -left-42 top-50 text-black font-bold text-2xl transform rotate-270"> works How it works How it</h2>
 
               <div className= "bg-[#E10A1D] w-100 h-80 p-10 mb-6 mt-15 text-white rounded-md left-3">
               <h2 className="text-5xl font-semibold mb-4">How it <br /> works</h2>
               <p className="mt-2 font-weight-400  "> <br/ > Find your dream car in just 2 simple steps:</p>
+              </div>
               </div>
 
               <div className = "flex flex-col">
