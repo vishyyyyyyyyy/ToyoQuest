@@ -34,7 +34,7 @@ export default function Financials() {
           {/* Left column */}
           <div className="flex flex-col gap-15">
             <div className="flex items-center gap-4">
-              <FaUser className="text-black size-15" />
+              {/* <FaUser className="text-black size-15" /> */}
               <div>
                 <h1 className="font-bold text-2xl">What's your name?</h1>
                 <input
