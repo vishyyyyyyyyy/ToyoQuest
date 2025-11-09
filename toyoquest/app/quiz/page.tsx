@@ -17,20 +17,21 @@ const cards = [
 
 export default function Quiz() {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [selectedCards, setSelectedCards] = useState([]);
+  const [selectedCards, setSelectedCards] = useState<string[]>([]);
   const router = useRouter();
 
-  const handleSubmit = (cardName) => {
-    // Save the selected card
-    setSelectedCards((prev) => [...prev, cardName]);
+  const handleSubmit = (cardName: string) => {
+    // Save the selected card (compute updated array synchronously)
+    const updated = [...selectedCards, cardName];
+    setSelectedCards(updated);
 
     // Move to the next pair
     if (currentIndex >= cards.length - 2) {
       // End of quiz, navigate to results or podium
-      console.log("All selected cards:", [...selectedCards, cardName]);
+      console.log('All selected cards:', updated);
       router.push('/podium');
     } else {
-      setCurrentIndex(currentIndex + 2);
+      setCurrentIndex((prev) => Math.min(prev + 2, cards.length - 2));
     }
   };
 
