@@ -6,36 +6,56 @@ import csv
 import json
 import requests
 
-# Helper: load latest form data that the Flask app writes to latest_financials.json
-def load_latest_financials():
-    """Try to load form data from latest_financials.json in the same directory.
+# Helper: load latest form data and quiz selections that the Flask app writes
+def load_latest_data():
+    """Try to load form data and quiz selections from JSON files in the same directory.
 
-    Returns a dict with keys: name, budget, creditScore, downPayment, paymentPeriod,
-    annualMileage, leaseMonths (values may be None if missing).
+    Returns a tuple (financials_dict, selected_cards_list) where:
+    - financials_dict has keys: name, budget, creditScore, etc (may be empty)
+    - selected_cards_list is a list of card names selected in the quiz (may be empty)
     """
     script_dir = pathlib.Path(__file__).parent
-    data_file = script_dir / 'latest_financials.json'
+    financials_file = script_dir / 'latest_financials.json'
+    quiz_file = script_dir / 'latest_quiz.json'
 
-    if data_file.exists():
+    # Load financials
+    financials = {}
+    if financials_file.exists():
         try:
-            with data_file.open('r', encoding='utf-8') as f:
-                data = json.load(f)
-                return data
+            with financials_file.open('r', encoding='utf-8') as f:
+                financials = json.load(f)
         except Exception as e:
             print(f"Failed to read latest_financials.json: {e}")
 
-    # Fallback: try to GET from local Flask endpoint (if running)
-    try:
-        resp = requests.get('http://127.0.0.1:5000/financials', timeout=1)
-        # The GET endpoint returns an instruction string by default; so we don't
-        # expect JSON here. Return empty dict in fallback.
-    except Exception:
-        pass
+    # Load quiz selections
+    selected_cards = []
+    if quiz_file.exists():
+        try:
+            with quiz_file.open('r', encoding='utf-8') as f:
+                quiz_data = json.load(f)
+                selected_cards = quiz_data.get('selectedCards', [])
+        except Exception as e:
+            print(f"Failed to read latest_quiz.json: {e}")
 
-    return {}
+    # Fallback: try to GET from local Flask endpoints (if running)
+    if not financials:
+        try:
+            resp = requests.get('http://127.0.0.1:5000/financials', timeout=1)
+        except Exception:
+            pass
+
+    if not selected_cards:
+        try:
+            resp = requests.get('http://127.0.0.1:5000/quiz', timeout=1)
+        except Exception:
+            pass
+
+    return financials, selected_cards
 
 # Expose module-level variables for use elsewhere in the script
-form_data = load_latest_financials()
+form_data, selected_cards = load_latest_data()
+
+# Financial form variables
 name = form_data.get('name')
 budget = form_data.get('budget')
 creditScore = form_data.get('creditScore')
@@ -43,6 +63,84 @@ downPayment = form_data.get('downPayment')
 paymentPeriod = form_data.get('paymentPeriod')
 annualMileage = form_data.get('annualMileage')
 leaseMonths = form_data.get('leaseMonths')
+
+# Quiz selections
+# selected_cards is already a list of card names chosen by the user
+
+# Define expanded card information dictionary
+CARD_DETAILS = {
+    'Sleek Sporty': {
+        'description': 'For sports cars and sedans',
+        'vehicle_types': ['sports car', 'sedan'],
+        'features': ['aerodynamic', 'performance-oriented'],
+        'preferences': ['speed', 'style']
+    },
+    'Family Roomy': {
+        'description': 'For SUVs and minivans',
+        'vehicle_types': ['SUV', 'minivan'],
+        'features': ['spacious', 'comfortable'],
+        'preferences': ['safety', 'space']
+    },
+    'Gas1 Mood': {
+        'description': 'For Hybrid and Electric vehicles',
+        'vehicle_types': ['hybrid', 'electric'],
+        'features': ['fuel-efficient', 'eco-friendly'],
+        'preferences': ['economy', 'sustainability']
+    },
+    'Gas2 Whatev': {
+        'description': 'For Gasoline vehicles',
+        'vehicle_types': ['gasoline'],
+        'features': ['traditional', 'versatile'],
+        'preferences': ['conventional', 'reliability']
+    },
+    'Speed Demon': {
+        'description': 'High miles per gallon and fuel efficient',
+        'vehicle_types': ['efficient performance'],
+        'features': ['fuel efficiency', 'performance'],
+        'preferences': ['economy', 'speed']
+    },
+    'Practical Life': {
+        'description': 'Lower mileage, more performance',
+        'vehicle_types': ['performance vehicle'],
+        'features': ['powerful', 'dynamic'],
+        'preferences': ['performance', 'excitement']
+    },
+    'Chill': {
+        'description': 'For smooth city cruisers like sedans and hatchbacks',
+        'vehicle_types': ['sedan', 'hatchback'],
+        'features': ['comfortable', 'city-friendly'],
+        'preferences': ['comfort', 'practicality']
+    },
+    'Chaos': {
+        'description': 'For rugged rides like SUVs and trucks',
+        'vehicle_types': ['SUV', 'truck'],
+        'features': ['rugged', 'off-road capable'],
+        'preferences': ['adventure', 'capability']
+    }
+}
+
+# Keep original simple mapping for backwards compatibility
+answerChosen = {
+    "Sleek Sporty": "For sports cars and sedans",
+    "Family & roomy": "For SUVs and minivans",
+    "Big mood": "For Hybrid and Electric vehicles",
+    "Whatever": "For Gasoline vehicles",
+    "Speed Demon": "High miles per gallon and fuel efficient",
+    "Practical life": "Lower mileage, more performance",
+    "Chill vibes": "For smooth city cruisers like sedans and hatchbacks",
+    "Off-road chaos": "For rugged rides like SUVs and trucks"
+}
+
+# Create dictionary of chosen cards with their full details
+chosenCards = {
+    card: CARD_DETAILS.get(card, {
+        'description': 'Unknown card type',
+        'vehicle_types': [],
+        'features': [],
+        'preferences': []
+    })
+    for card in selected_cards
+}
 
 
 
@@ -148,104 +246,74 @@ except Exception as e:
     print(f"Error loading CSV data: {e}")
     raise
 
+# Build user preferences string from chosen cards
+def get_preferences_from_cards():
+    if not chosenCards:
+        return "no specific preferences provided"
+    
+    preferences = []
+    vehicle_types = set()
+    features = set()
+    
+    for card_info in chosenCards.values():
+        vehicle_types.update(card_info.get('vehicle_types', []))
+        features.update(card_info.get('features', []))
+        preferences.extend(card_info.get('preferences', []))
+    
+    return (f"looking for vehicles that are {', '.join(features)} "
+            f"with a focus on {', '.join(preferences)}, "
+            f"particularly interested in {', '.join(vehicle_types)}")
+
 # System prompt for the assistant
-system_prompt = "You are a Toyota Financial services employee trying to help customers find the right car for them. Solely using the data provided in the CSV file (toyota_modal_data.csv), ask for their general purpose, how many seats they need, etc." \
-        "Using the response, recommend them 3 of the best models that they would like.When you provide the top 3 recommendations. Only ask one question at a time. You can only ask up to 6 questions to the user. Suggest vehicles that are closest to the user's budget and keep the questions as simple as possible!"
+system_prompt = (
+    f"You are a Toyota vehicle matching expert. Based on this complete customer profile:\n"
+    f"- Budget Range: {budget}\n"
+    f"- Credit Score Range: {creditScore}\n"
+    f"- Down Payment: ${downPayment}\n"
+    f"- Payment Period: {paymentPeriod} months\n"
+    f"- Annual Mileage: {annualMileage}k miles\n"
+    f"- Lease Duration: {leaseMonths} months\n"
+    f"- Style Preferences: {get_preferences_from_cards()}\n"
+    f"- User's life style: {chosenCards}\n"
+    "Using the Toyota vehicle data provided in the CSV file and their profile above, "
+    "to refine the recommendations. Focus on vehicles within their budget and "
+    "financing terms.Recommend vehicles that align with their style preferences and lifestyle and are closet to their budget."
+)
 
-def get_conversation_contents(conversation_messages):
-    """
-    Build the contents list for the API call.
-    Includes CSV data, system prompt, and conversation history.
-    
-    Args:
-        conversation_messages: List of previous messages in the conversation
-    
-    Returns:
-        Complete contents list for the API call
-    """
-    # Start with CSV data and system prompt as a single combined message
-    # Format: CSV data followed by system instructions
-    combined_data = f"{csv_data}\n\n{system_prompt}"
-    contents = [combined_data]
-    
-    # Add all conversation messages (user and assistant alternates)
-    contents.extend(conversation_messages)
-    
-    return contents
 
-def get_assistant_response(user_message, conversation_messages):
-    """
-    Get response from the assistant based on user message and conversation history.
-    
-    Args:
-        user_message: The user's input message
-        conversation_messages: List of previous messages in the conversation
-    
-    Returns:
-        The assistant's response text
-    """
-    # Add user message to conversation history
-    conversation_messages.append(user_message)
-    
-    # Build the complete contents list
-    contents = get_conversation_contents(conversation_messages)
-    
-    # Generate response using the full conversation history
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=contents
-    )
-    
-    # Get assistant response
-    assistant_response = response.text
-    
-    # Add assistant response to conversation history for next turn
-    conversation_messages.append(assistant_response)
-    
-    return assistant_response
 
 def main():
     """
-    Main function to handle multi-turn conversations.
+    Main function to get vehicle recommendations based on user profile.
     """
     print("=" * 70)
-    print("Toyota Car Recommendation Assistant")
+    print("Toyota Vehicle Recommendation System")
     print("=" * 70)
-    print("Type 'quit', 'exit', or 'bye' to end the conversation.\n")
+    print("\nAnalyzing your profile and preferences...")
+    print(f"Budget Range: {budget}")
+    print(f"Credit Score: {creditScore}")
+    print(f"Style Preferences: {get_preferences_from_cards()}")
+    print(f"Selected Cards: {', '.join(chosenCards.keys())}")
+    print("\nGenerating personalized recommendations...\n")
     
-    # Initialize conversation messages list
-    # Format: [assistant_greeting, user_msg1, assistant_msg1, user_msg2, assistant_msg2, ...]
-    conversation_messages = []
-    
-    # Start the conversation with the greeting (assistant's first message)
-    initial_greeting = "Welcome to Toyota, what kind of vehicle are you looking for today?"
-    print(f"Assistant: {initial_greeting}\n")
-    # Add initial greeting as the assistant's first message in conversation history
-    conversation_messages.append(initial_greeting)
-    
-    # Main conversation loop
-    while True:
-        # Get user input
-        user_input = input("You: ").strip()
+    try:
+        # Build the contents list with CSV data and system prompt
+        contents = [f"{csv_data}\n\n{system_prompt}"]
         
-        # Check if user wants to exit
-        if user_input.lower() in ['quit', 'exit', 'bye', 'q']:
-            print("\nThank you for using Toyota Car Recommendation Assistant. Goodbye!")
-            break
+        # Generate recommendations using the complete profile
+        response = client.models.generate_content(
+            model="gemini-2.5-flash",
+            contents=contents
+        )
         
-        # Skip empty input
-        if not user_input:
-            continue
+        print("Top 3 Recommended Vehicles:")
+        print("=" * 70)
+        print(f"\n{response.text}\n")
+        print("=" * 70)
         
-        try:
-            # Get and display assistant response
-            # This will add user_input and response to conversation_messages
-            response = get_assistant_response(user_input, conversation_messages)
-            print(f"\nAssistant: {response}\n")
-        except Exception as e:
-            print(f"\nError: {e}")
-            print(f"Error type: {type(e).__name__}")
-            print("Please try again or type 'quit' to exit.\n")
+    except Exception as e:
+        print(f"\nError generating recommendations: {e}")
+        print(f"Error type: {type(e).__name__}")
 
 if __name__ == "__main__":
     try:

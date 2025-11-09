@@ -2,6 +2,10 @@ from flask import Flask, render_template, request, jsonify
 import json
 import pathlib
 
+# File paths for persisting data
+FINANCIALS_FILE = pathlib.Path(__file__).parent / 'latest_financials.json'
+QUIZ_FILE = pathlib.Path(__file__).parent / 'latest_quiz.json'
+
 # Optional: enable CORS so a frontend running on another port (e.g. Next.js on 3000)
 try:
     from flask_cors import CORS
@@ -54,8 +58,7 @@ def financials_page():
         # Persist the received data to a JSON file so other scripts (e.g. questions.py)
         # can read it without requiring an HTTP call.
         try:
-            data_file = pathlib.Path(__file__).parent / 'latest_financials.json'
-            with data_file.open('w', encoding='utf-8') as f:
+            with FINANCIALS_FILE.open('w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=2)
         except Exception as e:
             print(f"Failed to write form data to file: {e}")
@@ -67,6 +70,32 @@ def financials_page():
     return (
         "Send a JSON POST to this endpoint with keys: name, budget, creditScore, downPayment, paymentPeriod, annualMileage, leaseMonths"
     )
+
+
+@app.route('/quiz', methods=['GET', 'POST'])
+def quiz_page():
+    """Endpoint for receiving selected cards from the quiz page.
+
+    - GET: returns a short instruction string
+    - POST: accepts JSON payload with selectedCards array
+    """
+    if request.method == 'POST':
+        data = request.get_json(force=True) or {}
+        selected_cards = data.get('selectedCards', [])
+
+        # Log received cards
+        print(f"[quiz POST] Selected cards: {selected_cards}")
+
+        # Store to file for questions.py to read
+        try:
+            with QUIZ_FILE.open('w', encoding='utf-8') as f:
+                json.dump({'selectedCards': selected_cards}, f, ensure_ascii=False, indent=2)
+        except Exception as e:
+            print(f"Failed to write quiz data to file: {e}")
+
+        return jsonify(success=True, received=data), 200
+
+    return "Send a JSON POST to this endpoint with selectedCards array"
 
 #def caculatePayment()
 

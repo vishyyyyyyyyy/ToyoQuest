@@ -17,17 +17,37 @@ const cards = [
 
 export default function Quiz() {
   const [currentIndex, setCurrentIndex] = useState(0);
-  const [selectedCards, setSelectedCards] = useState([]);
+  const [selectedCards, setSelectedCards] = useState<string[]>([]);
   const router = useRouter();
 
-  const handleSubmit = (cardName) => {
+  const handleSubmit = async (cardName: string) => {
     // Save the selected card
-    setSelectedCards((prev) => [...prev, cardName]);
+    const updatedCards = [...selectedCards, cardName];
+    setSelectedCards(updatedCards);
 
     // Move to the next pair
     if (currentIndex >= cards.length - 2) {
-      // End of quiz, navigate to results or podium
-      console.log("All selected cards:", [...selectedCards, cardName]);
+      // End of quiz - send selections to backend then navigate
+      console.log("All selected cards:", updatedCards);
+      
+      try {
+        const res = await fetch('http://127.0.0.1:5000/quiz', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ selectedCards: updatedCards }),
+        });
+
+        if (!res.ok) {
+          console.error('Failed to save quiz selections:', res.status);
+        }
+
+        const json = await res.json();
+        console.log('Saved quiz selections:', json);
+      } catch (err) {
+        console.error('Error saving quiz selections:', err);
+      }
+
+      // Navigate to podium regardless of save success
       router.push('/podium');
     } else {
       setCurrentIndex(currentIndex + 2);
