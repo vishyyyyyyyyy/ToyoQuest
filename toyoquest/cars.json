@@ -1,0 +1,286 @@
+[
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Gas",
+        "Model": "Corolla",
+        "StartPrice": 22725,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Corolla! Your budget’s best friend, your daily ride-or-die, and your ticket to stress-free driving.",
+        "Picture": "https://www.toyota.com/corolla/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Gas",
+        "Model": "Corolla Hatchback",
+        "StartPrice": 24180,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Corolla Hatchback! A bit small on the outside, big on personality, and always ready to roll wherever you’re headed.",
+        "Picture": "https://www.toyota.com/corollahatchback/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Gas",
+        "Model": "GR86",
+        "StartPrice": 30800,
+        "Seats": "4",
+        "CarType": "Coupe",
+        "Tagline": "I’m the GR86. I'm built to hug corners, turn heads, and make every drive feel like a victory lap.",
+        "Picture": "https://www.toyota.com/gr86/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Gas",
+        "Model": "GR Corolla",
+        "StartPrice": 39920,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the GR Corolla. I’ve got rally roots, turbo guts, and I’m here to make your commute way less boring.",
+        "Picture": "https://www.toyota.com/grcorolla/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Gas",
+        "Model": "GR Supra",
+        "StartPrice": 57500,
+        "Seats": "2",
+        "CarType": "Sports Car",
+        "Tagline": "I’m the GR Supra. I don’t just drive, I make every road feel like a racetrack",
+        "Picture": "https://www.toyota.com/grsupra/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid",
+        "Model": "Corolla Hybrid",
+        "StartPrice": 24575,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Corolla Hybrid! I sip fuel, stay chill, and keep your wallet and the planet happy.",
+        "Picture": "https://www.toyota.com/corolla/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid",
+        "Model": "Prius",
+        "StartPrice": 28550,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Prius Hybrid. I’ve got sleek looks, smart tech, and I run so efficiently you’ll forget what a gas station even smells like.",
+        "Picture": "https://www.toyota.com/prius/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid",
+        "Model": "Camry",
+        "StartPrice": 29000,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Camry Hybrid. Roomy and refined, I’m the smooth operator that saves you gas without skimping on style or tech.",
+        "Picture": "https://www.toyota.com/camry/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid",
+        "Model": "Sienna",
+        "StartPrice": 40120,
+        "Seats": "45846",
+        "CarType": "Minivan",
+        "Tagline": "I’m the Sienna Hybrid! I’ve got space for your whole crew, style that breaks the minivan mold, and mileage that keeps you moving without the pit stops.",
+        "Picture": "https://www.toyota.com/sienna/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid",
+        "Model": "Crown",
+        "StartPrice": 41440,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Crown Hybrid. I bring the style, the smarts, and the hybrid punch to make every drive feel royal.",
+        "Picture": "https://www.toyota.com/crown/"
+    },
+    {
+        "Type": "Cars & Minivan",
+        "Engine": "Hybrid Plug-in",
+        "Model": "Prius Plug-in Hybrid",
+        "StartPrice": 33775,
+        "Seats": "5",
+        "CarType": "Sedan",
+        "Tagline": "I’m the Prius Plug-in Hybrid. I charge at home, switch to gas when needed, and pack sleek design, smart tech, and serious range into one sweet ride.",
+        "Picture": "https://www.toyota.com/priuspluginhybrid/"
+    },
+    {
+        "Type": "Truck",
+        "Engine": "Gas",
+        "Model": "Tacoma-Gas",
+        "StartPrice": 35955,
+        "Seats": "4 or 5",
+        "Tagline": "I’m the Tacoma. I haul, climb, and cruise like a beast, whether you’re hitting the trails or just making a hardware store run.",
+        "Picture": "https://www.toyota.com/tacoma/"
+    },
+    {
+        "Type": "Truck",
+        "Engine": "Gas",
+        "Model": "Tundra-Gas",
+        "StartPrice": 47550,
+        "Seats": "5 or 6",
+        "Tagline": "I’m the Tundra. I tow, climb, and cruise with power to spare and comfort to match, so whether it’s work or weekend, I’m built to handle it all.",
+        "Comments": "Option to have front row bench",
+        "Picture": "https://www.toyota.com/tundra/"
+    },
+    {
+        "Type": "Truck",
+        "Engine": "Hybrid",
+        "Model": "Tacoma-Hybrid",
+        "StartPrice": 49000,
+        "Seats": "2 or 5",
+        "Tagline": "I’m the Tacoma Hybrid. I’ve got the grit you expect, the hybrid boost you didn’t, and I’m ready to hit the trail or the traffic without breaking a sweat.",
+        "Comments": "Option to not have rear seating",
+        "Picture": "https://www.toyota.com/tacoma/"
+    },
+    {
+        "Type": "Truck",
+        "Engine": "Hybrid",
+        "Model": "Tundra-Hybrid",
+        "StartPrice": 64325,
+        "Seats": "5",
+        "Tagline": "I’m the Tundra Hybrid. I’ve got twin-turbo muscle, hybrid brains, and enough torque to move mountains without draining your tank.",
+        "Picture": "https://www.toyota.com/tundra/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Gas",
+        "Model": "Corolla Cross",
+        "StartPrice": 24935,
+        "Seats": "5",
+        "Tagline": "I’m the Corolla Cross! I’ve got the space, the style, and the go-anywhere vibe to keep up with your everyday hustle and weekend escapes.",
+        "Picture": "https://www.toyota.com/corollacross/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Gas",
+        "Model": "RAV4",
+        "StartPrice": 29800,
+        "Seats": "5",
+        "Tagline": "I’m the RAV4. I’ve got room for your crew, grip for any road, and the kind of style that makes errands feel like adventures.",
+        "Picture": "https://www.toyota.com/rav4/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Gas",
+        "Model": "Highlander",
+        "StartPrice": 45270,
+        "Seats": "45846",
+        "Tagline": "I’m the Highlander. I roll with three rows, a quiet confidence, and enough space to turn chaos into calm, no matter how wild your crew gets.",
+        "Picture": "https://www.toyota.com/highlander/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Gas",
+        "Model": "Grand Highlander",
+        "StartPrice": 41360,
+        "Seats": "45846",
+        "Tagline": "I’m the Grand Highlander. I don’t just carry your crew, I elevate the whole experience with big space, smooth power, and a vibe that says \"we’re not just going, we’re arriving.\"",
+        "Picture": "https://www.toyota.com/grandhighlander/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Gas",
+        "Model": "4Runner",
+        "StartPrice": 41570,
+        "Seats": "5 or 7",
+        "Tagline": "I’m the 4Runner. I eat dirt roads for breakfast, carry your gear without complaining, and still clean up nice when it’s time to hit the city.",
+        "Comments": "Option to add a 3rd row",
+        "Picture": "https://www.toyota.com/4runner/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Corolla Cross Hybrid",
+        "StartPrice": 29295,
+        "Seats": "5",
+        "Tagline": "I’m the Corolla Cross Hybrid. I zip through traffic, stretch every drop of fuel, and bring SUV vibes without the bulk or the drama.",
+        "Picture": "https://www.toyota.com/corollacross/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "RAV4 Hybrid",
+        "StartPrice": 32850,
+        "Seats": "5",
+        "Tagline": "I’m the RAV4 Hybrid. I hustle hard, sip fuel slow, and bring the muscle when the road gets wild.",
+        "Picture": "https://www.toyota.com/rav4hybrid/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Highlander Hybrid",
+        "StartPrice": 47020,
+        "Seats": "7 or 8",
+        "Tagline": "I’m the Highlander Hybrid. Where power meets efficiency, and every drive feels like a smart adventure.",
+        "Picture": "https://www.toyota.com/highlander/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Grand Highlander Hybrid",
+        "StartPrice": 44710,
+        "Seats": "7 or 8",
+        "Tagline": "I’m the Grand Highlander Hybrid. Your smooth-talking, fuel-saving road giant with room for dreams and detours.",
+        "Picture": "https://www.toyota.com/grandhighlander/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "4Runner i-FORCE MAX",
+        "StartPrice": 52790,
+        "Seats": "5 or 7",
+        "Tagline": "I’m the 4Runner i-FORCE MAX Hybrid. I'm part trail beast, part tech whisperer, all torque with a conscience.",
+        "Picture": "https://www.toyota.com/4runner/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Crown Signia",
+        "StartPrice": 44090,
+        "Seats": "5",
+        "Tagline": "I’m the Crown Signia Hybrid. Your sleek, silent rebel blending royal comfort with a hybrid heart that never quits.",
+        "Picture": "https://www.toyota.com/crownsignia/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Land Cruiser",
+        "StartPrice": 57200,
+        "Seats": "5",
+        "Tagline": "I’m the Land Cruiser Hybrid. I've got heritage in my bones, hybrid in my veins, and adventure in every heartbeat.",
+        "Picture": "https://www.toyota.com/landcruiser/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid",
+        "Model": "Sequoia",
+        "StartPrice": 64025,
+        "Seats": "7 or 8",
+        "Tagline": "I’m the Sequoia Hybrid. I've got towering strength, whisper-quiet power, and a heart that hauls with purpose.",
+        "Picture": "https://www.toyota.com/sequoia/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Hybrid Plug-in",
+        "Model": "RAV4 Plug-in Hybrid",
+        "StartPrice": 44815,
+        "Seats": "5",
+        "Tagline": "I’m the RAV4 Plug-in Hybrid. I'm quiet in the city, wild on the weekend, and always charged for what’s next.",
+        "Picture": "https://www.toyota.com/rav4pluginhybrid/"
+    },
+    {
+        "Type": "Crossovers & SUVs",
+        "Engine": "Battery EV",
+        "Model": "bZ",
+        "StartPrice": 34900,
+        "Seats": "5",
+        "Tagline": "I’m the bZ. I'm a pure electric soul, built for tomorrow, and driven by a vision that goes beyond zero.",
+        "Picture": "https://www.toyota.com/bz/"
+    }
+]
