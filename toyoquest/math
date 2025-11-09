@@ -1,0 +1,86 @@
+//FIGURE OUT HOW TO IMPORT THE PRICES AND HOW OT GET THE SPECIFIC PRICE FROM THE IMPORTED DATA
+
+const fs = require('fs');
+const data = fs.readFileSync('cars.json');
+const carPrices = JSON.parse(data); 
+
+let msrp = 51435;
+let downPayment = 10000;
+let salesTax = (0.08*msrp);
+const registrationFee = 150;
+const dealerFee = 225;
+
+let adjustedCapitalPrice = msrp + salesTax + registrationFee + dealerFee - downPayment;
+let monthLeased = 48
+
+if (monthLeased === 48){
+  let residualValue = 0.55 * msrp;
+} else if (monthLeased === 60){
+  let residualValue = 0.45 * msrp;
+} else {
+  let residualValue = 0.40 * msrp;
+}
+
+let totalDepreciation = adjustedCapitalPrice - residualValue;
+let monthlyDepreciation = totalDepreciation / monthsLeased;
+if (let creditScore >= 760){
+  if (monthLeased === 48 || monthLeased === 60){
+  let apr = 0.0475;
+  } else {
+  let apr = 0.0495;
+  } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12); 
+} else if (let creditScore >= 720 && creditscore < 760){
+    if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0475;
+    } else {
+    let apr = 0.0495;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditScore >= 690 && creditscore < 720){
+  if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0499;
+    } else {
+    let apr = 0.0507;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditScore >= 670 && creditscore < 690){
+  if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0529;
+    } else {
+    let apr = 0.0665;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditScore >= 650 && creditscore < 670) {
+  if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0532;
+    } else {
+    let apr = 0.0698;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditscore >= 630 && creditscore < 650){
+  if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0646;
+    } else {
+    let apr = 0.0732;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditscore >= 610 && creditscore < 630){
+  if (monthLeased === 48 || monthLeased === 60){
+    let apr = 0.0788;
+    } else {
+    let apr = 0.0818;
+    } 
+  let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else if (let creditscore >= 580 && creditscore < 610){
+    let apr = 0.1177;
+    let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+} else{
+    let apr = 0.2132;
+    let monthlyRentCharge = (adjustedCapitalPrice + residualValue) * (apr / 12);
+}
+
+let monthlyTaxes = 0.08 * (monthlyDepreciation + monthlyRentCharge);
+let totalMonthlyPayment = monthlyDepreciation + monthlyRentCharge + monthlyTaxes;
+
+console.log("The total monthly payment is: $" + totalMonthlyPayment.toFixed(2));
