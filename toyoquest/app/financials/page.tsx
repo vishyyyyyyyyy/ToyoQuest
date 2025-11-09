@@ -6,6 +6,15 @@ import Link from "next/link";
 
 export default function Financials() {
   const [isBuying, setIsBuying] = useState(true);
+  
+  // Form state variables
+  const [name, setName] = useState("");
+  const [budget, setBudget] = useState("");
+  const [creditScore, setCreditScore] = useState("");
+  const [downPayment, setDownPayment] = useState("");
+  const [paymentPeriod, setPaymentPeriod] = useState("");
+  const [annualMileage, setAnnualMileage] = useState("");
+  const [leaseMonths, setLeaseMonths] = useState("");
 
   return (
     <>
@@ -32,13 +41,19 @@ export default function Financials() {
                   type="text"
                   placeholder="Enter your name"
                   className="bg-white p-2 rounded-md w-64 mt-2"
+                  value={name}
+                  onChange={(e) => setName(e.target.value)}
                 />
               </div>
             </div>
 
             <div>
               <h1 className="font-bold text-2xl">What's your budget?</h1>
-              <select className="bg-white p-2 rounded-md w-64 mt-2" defaultValue="">
+              <select 
+                className="bg-white p-2 rounded-md w-64 mt-2" 
+                value={budget}
+                onChange={(e) => setBudget(e.target.value)}
+              >
                 <option value="" disabled>Select an option</option>
                 <option value="22k_30k">$22,000 - $30,000</option>
                 <option value="30k_35k">$30,000 - $35,000</option>
@@ -51,7 +66,11 @@ export default function Financials() {
 
             <div>
               <h1 className="font-bold text-2xl">What's your credit score?</h1>
-              <select className="bg-white p-2 rounded-md w-64 mt-3" defaultValue="">
+              <select 
+                className="bg-white p-2 rounded-md w-64 mt-3" 
+                value={creditScore}
+                onChange={(e) => setCreditScore(e.target.value)}
+              >
                 <option value="" disabled>Select an option</option>
                 <option value="760_850">Exceptional (760 - 850)</option>
                 <option value="720_759">Excellent (720 - 759)</option>
@@ -89,7 +108,11 @@ export default function Financials() {
               <>
                 <div className="relative -top-4.5">
                   <h1 className="font-bold text-2xl">How much is your down payment?</h1>
-                  <select className="bg-white p-2 rounded-md w-64 mt-2">
+                  <select 
+                    className="bg-white p-2 rounded-md w-64 mt-2"
+                    value={downPayment}
+                    onChange={(e) => setDownPayment(e.target.value)}
+                  >
                     <option value="" disabled>Select an option</option>
                     <option value="0">$0</option>
                     <option value="5000">$5,000</option>
@@ -100,7 +123,11 @@ export default function Financials() {
 
                 <div className= "= relative -top-4">
                   <h1 className="font-bold text-2xl">How long will you be paying it off?</h1>
-                  <select className="bg-white p-2 rounded-md w-64 mt-2">
+                  <select 
+                    className="bg-white p-2 rounded-md w-64 mt-2"
+                    value={paymentPeriod}
+                    onChange={(e) => setPaymentPeriod(e.target.value)}
+                  >
                     <option value="" disabled>Select an option</option>
                     <option value="48">48 months</option>
                     <option value="60">60 months</option>
@@ -111,8 +138,12 @@ export default function Financials() {
             ) : (
               <>
                 <div className="-top-4.5 relative">
-                  <h1 className="font-bold text-2xl">What’s your average annual mileage?</h1>
-                  <select className="bg-white p-2 rounded-md w-64 mt-2">
+                  <h1 className="font-bold text-2xl">What's your average annual mileage?</h1>
+                  <select 
+                    className="bg-white p-2 rounded-md w-64 mt-2"
+                    value={annualMileage}
+                    onChange={(e) => setAnnualMileage(e.target.value)}
+                  >
                     <option value="" disabled>Select an option</option>
                     <option value="10">10,000 miles</option>
                     <option value="12">12,000 miles</option>
@@ -122,7 +153,11 @@ export default function Financials() {
 
                 <div className= "= relative -top-12">
                   <h1 className="font-bold text-2xl">How many months are you leasing?</h1>
-                  <select className="bg-white p-2 rounded-md w-64 mt-2">
+                  <select 
+                    className="bg-white p-2 rounded-md w-64 mt-2"
+                    value={leaseMonths}
+                    onChange={(e) => setLeaseMonths(e.target.value)}
+                  >
                     <option value="" disabled>Select an option</option>
                     <option value="36">36 months</option>
                     <option value="39">39 months</option>
@@ -137,7 +172,7 @@ export default function Financials() {
           {/* Submit Button */}
           <Link
                   href="/quiz"
-                  className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-[55vh] top-113 flex items-center justify-center"
+                  className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-[55vh ] top-113 flex items-center justify-center"
                 >
                   Submit
           </Link>
