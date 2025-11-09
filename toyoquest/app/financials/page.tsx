@@ -2,7 +2,6 @@
 import React, { useState } from "react";
 import Navbar from "../navbar";
 import { FaUser } from "react-icons/fa";
-import Link from "next/link";
 
 export default function Financials() {
   const [isBuying, setIsBuying] = useState(true);
@@ -15,6 +14,40 @@ export default function Financials() {
   const [paymentPeriod, setPaymentPeriod] = useState("");
   const [annualMileage, setAnnualMileage] = useState("");
   const [leaseMonths, setLeaseMonths] = useState("");
+
+  // Submit handler: POST form state to Flask backend and then navigate to /quiz
+  const handleSubmit = async () => {
+    const payload = {
+      name,
+      budget,
+      creditScore,
+      downPayment,
+      paymentPeriod,
+      annualMileage,
+      leaseMonths,
+    };
+
+    try {
+      const res = await fetch('http://127.0.0.1:5000/financials', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      if (!res.ok) {
+        console.error('Server error when submitting financials', res.status);
+        return;
+      }
+
+      const json = await res.json();
+      console.log('Submitted financials:', json);
+
+      // navigate to quiz page after successful submit
+      window.location.href = '/quiz';
+    } catch (err) {
+      console.error('Failed to submit financials', err);
+    }
+  };
 
   return (
     <>
@@ -34,7 +67,7 @@ export default function Financials() {
           {/* Left column */}
           <div className="flex flex-col gap-15">
             <div className="flex items-center gap-4">
-              {/* <FaUser className="text-black size-15" /> */}
+              <FaUser className="text-black size-15" />
               <div>
                 <h1 className="font-bold text-2xl">What's your name?</h1>
                 <input
@@ -170,12 +203,12 @@ export default function Financials() {
           </div>
 
           {/* Submit Button */}
-          <Link
-                  href="/quiz"
-                  className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-[55vh ] top-113 flex items-center justify-center"
-                >
-                  Submit
-          </Link>
+          <button
+            onClick={handleSubmit}
+            className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-[55vh ] top-113 flex items-center justify-center"
+          >
+            Submit
+          </button>
         </div>
       </div>
     </>
