@@ -2,6 +2,7 @@
 import React, { useState } from "react";
 import Navbar from "../navbar";
 import { FaUser } from "react-icons/fa";
+import Link from "next/link";
 
 export default function Financials() {
   const [isBuying, setIsBuying] = useState(true);
@@ -10,7 +11,7 @@ export default function Financials() {
     <>
       <Navbar />
 
-      <div className="min-h-screen bg-white flex flex-col items-center">
+      <div className="min-h-[90vh] bg-white flex flex-col items-center">
         {/* Header */}
         <div className="flex flex-col items-center p-8 text-black text-center max-w-2xl">
           <h1 className="font-bold text-5xl">Let’s talk finances!</h1>
@@ -134,9 +135,12 @@ export default function Financials() {
           </div>
 
           {/* Submit Button */}
-          <button className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-110 top-113">
-            Submit
-          </button>
+          <Link
+                  href="/quiz"
+                  className="bg-[#E10A1D] text-white font-bold text-2xl rounded-3xl w-40 h-13 absolute left-[55vh] top-113 flex items-center justify-center"
+                >
+                  Submit
+          </Link>
         </div>
       </div>
     </>
