@@ -1,9 +1,9 @@
 {
-  "name": "asdf",
-  "budget": "35k_40k",
-  "creditScore": "690_719",
-  "downPayment": "10000",
-  "paymentPeriod": "60",
+  "name": "bob",
+  "budget": "40k_45k",
+  "creditScore": "720_759",
+  "downPayment": "5000",
+  "paymentPeriod": "48",
   "annualMileage": "",
   "leaseMonths": ""
 }

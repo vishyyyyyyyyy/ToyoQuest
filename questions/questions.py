@@ -44,6 +44,9 @@ paymentPeriod = form_data.get('paymentPeriod')
 annualMileage = form_data.get('annualMileage')
 leaseMonths = form_data.get('leaseMonths')
 
+
+
+
 # Get API key from environment variable or use the provided one
 api_key = os.getenv("GOOGLE_GENAI_API_KEY", "AIzaSyAvKJEnOdDbweHBb_tHD-rLCIdCas8aMRs")
 client = genai.Client(api_key=api_key)
