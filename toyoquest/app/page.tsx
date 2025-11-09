@@ -2,6 +2,7 @@ import Image from "next/image";
 import Navbar from './navbar';
 import { FaCircle } from "react-icons/fa6";
 import { FaArrowCircleDown } from "react-icons/fa";
+import Link from 'next/link';
 
 
 export default function Home() {
@@ -70,7 +71,7 @@ export default function Home() {
             </div>
 
             <div className=" underline text-lg font-semibold text-black mt-12 items-align-center gap-4 justify-center flex">
-                Get Started Below
+                <Link href = "/start">Get Started Below</Link>
                 <FaArrowCircleDown className="text-[#E10A1D] mt-1"/>
                 {/* add click animaiton scroll here */}
               </div>
