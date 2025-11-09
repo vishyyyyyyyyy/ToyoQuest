@@ -3,6 +3,7 @@ import Navbar from './navbar';
 import { TbCircleNumber2Filled } from "react-icons/tb";
 import { TbCircleNumber1Filled } from "react-icons/tb";
 import { FaArrowCircleDown } from "react-icons/fa";
+import Link from 'next/link';
 
 
 export default function Home() {
@@ -37,7 +38,7 @@ export default function Home() {
             </div>
 
             <div className=" underline text-lg font-semibold text-black mt-20 items-align-center justify-center flex">
-                Get Started Below
+                <Link href = "/start">Get Started Below</Link>
                 <FaArrowCircleDown className="text-red-500"/>
               </div>
           </div>
